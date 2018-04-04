@@ -40,25 +40,7 @@ ironsteel_byyear <- ironsteel %>%
 View(ironsteel_byyear)
 
 
-######### Preview some other packages ---------
-
-# these are more tidyverse packages
-library("tidyr")
-
-ironsteel_wide <- ironsteel_byyear %>%
-  spread(year, ghg_quantity) %>%
-  View()
-
-##### Some very ugly, very quick plots ---------
-
-library("ggplot2")
-
-ggplot(ironsteel_byyear, mapping = aes(x=year, y=ghg_quantity, group=ghg_name)) +
-  geom_line()
-
-ggplot(ironsteel_byyear, mapping = aes(x=year, y=ghg_quantity, group=ghg_name)) +
-  geom_line() +
-  facet_grid(ghg_name ~ .)
-
 ###### Now you try working with another dataset -- maybe the facility info?
+###### If you have some data you want to try working with, maybe that?
+
 
