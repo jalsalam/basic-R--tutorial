@@ -67,6 +67,15 @@ round(3.1415, 2)
 2 %>% round(3.1415)
 
 
+##### Grouping, summarizing ---------
+
+starwars %>%
+  group_by(homeworld) %>% #make separate groups that share value of the group_by variables.
+  summarize(count = n(),
+            tot_mass = sum(mass)) # perform some summaries that combine the 
+
+# This dataset doesn't really make a lot of sense for this ....
+
 
 
 ####### Look at the docs ----------

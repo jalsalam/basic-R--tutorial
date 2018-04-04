@@ -1,0 +1,3549 @@
+Q_SUBPART_LEVEL_INFORMATION.FACILITY_ID,Q_SUBPART_LEVEL_INFORMATION.REPORTING_YEAR,Q_SUBPART_LEVEL_INFORMATION.GHG_NAME,Q_SUBPART_LEVEL_INFORMATION.GHG_QUANTITY
+1007946,2011,Biogenic Carbon dioxide,0
+1007946,2011,Nitrous Oxide,.012
+1007695,2010,Biogenic Carbon dioxide,0
+1007946,2012,Nitrous Oxide,.012
+1007946,2013,Biogenic Carbon dioxide,0
+1007695,2014,Biogenic Carbon dioxide,0
+1007946,2014,Methane,.13
+1007946,2015,Nitrous Oxide,.125
+1007695,2016,Methane,.24
+1007695,2016,Nitrous Oxide,.024
+1007577,2010,Biogenic Carbon dioxide,0
+1007577,2012,Carbon Dioxide,26519
+1007577,2016,Carbon Dioxide,33964.4
+1012352,2016,Nitrous Oxide,0
+1010766,2015,Methane,0
+1011726,2010,Carbon Dioxide,1224.7
+1011726,2012,Methane,0
+1010925,2011,Nitrous Oxide,0
+1011726,2015,Carbon Dioxide,844.5
+1010925,2012,Methane,0
+1010925,2012,Nitrous Oxide,0
+1010925,2013,Methane,0
+1010925,2014,Nitrous Oxide,0
+1011726,2016,Methane,0
+1010763,2012,Nitrous Oxide,0
+1010763,2013,Biogenic Carbon dioxide,0
+1010763,2015,Methane,0
+1010763,2016,Nitrous Oxide,0
+1000159,2010,Nitrous Oxide,.011
+1000159,2010,Carbon Dioxide,332837.9
+1005976,2010,Biogenic Carbon dioxide,0
+1006972,2016,Methane,0
+1005025,2016,Methane,.29
+1001563,2016,Carbon Dioxide,21277
+1002769,2013,Carbon Dioxide,1432.9
+1004036,2014,Biogenic Carbon dioxide,0
+1004036,2014,Methane,0
+1003902,2013,Biogenic Carbon dioxide,0
+1005777,2011,Biogenic Carbon dioxide,0
+1005777,2011,Carbon Dioxide,67915.5
+1005536,2011,Biogenic Carbon dioxide,0
+1005536,2013,Methane,0
+1000156,2012,Biogenic Carbon dioxide,0
+1000233,2012,Methane,.01
+1003962,2013,Methane,.23
+1007577,2015,Carbon Dioxide,34416.5
+1000156,2014,Biogenic Carbon dioxide,0
+1006708,2014,Biogenic Carbon dioxide,0
+1006708,2014,Methane,0
+1000274,2014,Methane,.57
+1000274,2014,Carbon Dioxide,2076977.8
+1002147,2014,Methane,0
+1002147,2014,Carbon Dioxide,177726.6
+1000588,2014,Methane,.07
+1007620,2013,Nitrous Oxide,0
+1000274,2013,Nitrous Oxide,.565
+1004458,2014,Biogenic Carbon dioxide,0
+1004811,2010,Biogenic Carbon dioxide,0
+1005615,2010,Carbon Dioxide,725826.4
+1001563,2010,Nitrous Oxide,.53
+1001563,2010,Carbon Dioxide,64383.6
+1006436,2010,Biogenic Carbon dioxide,0
+1003962,2010,Biogenic Carbon dioxide,0
+1003962,2010,Nitrous Oxide,.334
+1005598,2010,Carbon Dioxide,601922.9
+1004811,2014,Carbon Dioxide,43578.9
+1005614,2011,Carbon Dioxide,6318.3
+1002977,2015,Biogenic Carbon dioxide,0
+1000159,2014,Carbon Dioxide,335740.7
+1000553,2011,Methane,.01
+1000553,2011,Nitrous Oxide,.059
+1000418,2016,Biogenic Carbon dioxide,0
+1005276,2015,Nitrous Oxide,0
+1005003,2016,Nitrous Oxide,0
+1005003,2016,Carbon Dioxide,17708.8
+1004453,2015,Carbon Dioxide,11133.6
+1002621,2016,Methane,0
+1002621,2016,Carbon Dioxide,38134.8
+1000124,2016,Carbon Dioxide,28077
+1005536,2016,Biogenic Carbon dioxide,0
+1003902,2016,Biogenic Carbon dioxide,0
+1003902,2016,Methane,0
+1007177,2016,Nitrous Oxide,.169
+1007177,2016,Carbon Dioxide,840904.3
+1000233,2016,Biogenic Carbon dioxide,0
+1005777,2016,Biogenic Carbon dioxide,0
+1005777,2016,Nitrous Oxide,.014
+1005777,2016,Carbon Dioxide,94827.7
+1003474,2016,Biogenic Carbon dioxide,0
+1003474,2016,Nitrous Oxide,0
+1004036,2016,Biogenic Carbon dioxide,0
+1005190,2011,Methane,0
+1002621,2010,Biogenic Carbon dioxide,0
+1005003,2015,Carbon Dioxide,16426.9
+1002958,2010,Nitrous Oxide,0
+1000233,2015,Carbon Dioxide,628740.1
+1004259,2013,Biogenic Carbon dioxide,0
+1001699,2015,Carbon Dioxide,17097.3
+1007177,2012,Methane,0
+1000274,2012,Nitrous Oxide,.659
+1003962,2011,Nitrous Oxide,.766
+1000418,2012,Carbon Dioxide,2051564.1
+1007348,2013,Nitrous Oxide,0
+1003902,2012,Nitrous Oxide,0
+1001834,2012,Carbon Dioxide,1834392.7
+1000588,2013,Nitrous Oxide,.324
+1001618,2011,Biogenic Carbon dioxide,0
+1000124,2012,Nitrous Oxide,0
+1001103,2011,Biogenic Carbon dioxide,0
+1002621,2011,Carbon Dioxide,52523.6
+1002958,2011,Methane,0
+1002958,2011,Nitrous Oxide,0
+1003093,2011,Nitrous Oxide,0
+1003981,2012,Methane,0
+1004434,2012,Carbon Dioxide,7530
+1004411,2011,Methane,0
+1006159,2011,Nitrous Oxide,0
+1005801,2011,Carbon Dioxide,20173.9
+1005755,2011,Nitrous Oxide,0
+1000029,2012,Carbon Dioxide,82702
+1000029,2013,Methane,0
+1000029,2013,Nitrous Oxide,0
+1000029,2014,Carbon Dioxide,124471.7
+1000029,2016,Carbon Dioxide,54437.3
+1000235,2015,Methane,.12
+1000235,2010,Nitrous Oxide,.02
+1000235,2011,Nitrous Oxide,0
+1000235,2012,Methane,.1
+1000235,2013,Biogenic Carbon dioxide,0
+1000330,2015,Biogenic Carbon dioxide,0
+1000330,2016,Nitrous Oxide,0
+1000394,2010,Carbon Dioxide,11219
+1000394,2014,Biogenic Carbon dioxide,0
+1000399,2010,Biogenic Carbon dioxide,0
+1000399,2013,Methane,0
+1000399,2014,Methane,0
+1000399,2015,Biogenic Carbon dioxide,0
+1000399,2015,Methane,0
+1000714,2016,Methane,0
+1000802,2011,Nitrous Oxide,.019
+1001103,2012,Methane,0
+1001103,2012,Nitrous Oxide,0
+1001103,2016,Methane,0
+1001618,2014,Methane,0
+1001618,2015,Carbon Dioxide,67626.6
+1001621,2013,Methane,0
+1001673,2014,Biogenic Carbon dioxide,0
+1001673,2015,Carbon Dioxide,634.4
+1001673,2016,Carbon Dioxide,1556
+1001669,2014,Carbon Dioxide,32408.8
+1001669,2016,Biogenic Carbon dioxide,0
+1001673,2011,Nitrous Oxide,0
+1001958,2010,Nitrous Oxide,0
+1001958,2010,Carbon Dioxide,32.9
+1001958,2011,Biogenic Carbon dioxide,0
+1001958,2013,Nitrous Oxide,0
+1001958,2016,Nitrous Oxide,0
+1002147,2015,Methane,0
+1002147,2015,Nitrous Oxide,0
+1002147,2012,Nitrous Oxide,0
+1002266,2011,Nitrous Oxide,.064
+1002266,2012,Biogenic Carbon dioxide,0
+1002266,2015,Methane,.57
+1002266,2016,Carbon Dioxide,548004.6
+1002216,2012,Nitrous Oxide,0
+1002216,2014,Nitrous Oxide,0
+1002216,2015,Biogenic Carbon dioxide,0
+1002216,2015,Nitrous Oxide,0
+1002216,2016,Carbon Dioxide,24445
+1002714,2014,Nitrous Oxide,.007
+1002621,2013,Nitrous Oxide,0
+1002777,2012,Biogenic Carbon dioxide,0
+1002777,2012,Methane,0
+1002768,2010,Carbon Dioxide,98043.1
+1002777,2014,Biogenic Carbon dioxide,0
+1002768,2011,Nitrous Oxide,0
+1002768,2013,Methane,0
+1002768,2016,Biogenic Carbon dioxide,0
+1002768,2016,Methane,0
+1002769,2015,Carbon Dioxide,689
+1002769,2016,Biogenic Carbon dioxide,0
+1002903,2011,Methane,0
+1002903,2013,Biogenic Carbon dioxide,0
+1002903,2014,Carbon Dioxide,114726.2
+1002958,2014,Methane,0
+1002958,2015,Nitrous Oxide,0
+1002958,2015,Carbon Dioxide,203345.6
+1002977,2011,Biogenic Carbon dioxide,0
+1002977,2011,Nitrous Oxide,0
+1002977,2011,Carbon Dioxide,47275.2
+1002977,2014,Biogenic Carbon dioxide,0
+1002977,2016,Methane,0
+1003204,2010,Biogenic Carbon dioxide,0
+1003204,2014,Carbon Dioxide,527285.2
+1003204,2011,Nitrous Oxide,0
+1003204,2011,Carbon Dioxide,564476
+1003204,2015,Biogenic Carbon dioxide,0
+1003204,2015,Carbon Dioxide,522911.1
+1003204,2016,Biogenic Carbon dioxide,0
+1003093,2010,Carbon Dioxide,106451.5
+1003093,2012,Methane,1.69
+1003093,2013,Methane,.63
+1003093,2014,Biogenic Carbon dioxide,0
+1003052,2013,Methane,0
+1003052,2016,Carbon Dioxide,30053.4
+1003268,2010,Methane,0
+1003268,2014,Biogenic Carbon dioxide,0
+1003380,2011,Biogenic Carbon dioxide,0
+1003380,2012,Methane,.05
+1003380,2016,Methane,.11
+1003474,2011,Nitrous Oxide,0
+1003474,2013,Biogenic Carbon dioxide,0
+1003474,2015,Biogenic Carbon dioxide,0
+1003474,2015,Methane,0
+1003457,2010,Carbon Dioxide,175231.7
+1003457,2011,Nitrous Oxide,0
+1003403,2012,Carbon Dioxide,361960
+1003403,2013,Carbon Dioxide,368882.9
+1003457,2012,Nitrous Oxide,0
+1003457,2014,Biogenic Carbon dioxide,0
+1003403,2014,Methane,0
+1003457,2015,Methane,0
+1003403,2016,Biogenic Carbon dioxide,0
+1003577,2016,Biogenic Carbon dioxide,0
+1003580,2011,Nitrous Oxide,0
+1003580,2015,Methane,0
+1000156,2015,Biogenic Carbon dioxide,0
+1000159,2015,Nitrous Oxide,.003
+1000418,2015,Carbon Dioxide,1233325.4
+1006041,2015,Nitrous Oxide,.179
+1006041,2016,Methane,0
+1004259,2015,Nitrous Oxide,0
+1000156,2011,Nitrous Oxide,.501
+1000156,2011,Carbon Dioxide,1991155.3
+1000124,2011,Methane,0
+1003902,2015,Biogenic Carbon dioxide,0
+1001563,2015,Carbon Dioxide,23994.9
+1006041,2011,Methane,.41
+1000588,2011,Biogenic Carbon dioxide,0
+1000233,2013,Nitrous Oxide,.028
+1000124,2013,Carbon Dioxide,39471.9
+1000156,2013,Carbon Dioxide,1010315.6
+1000156,2016,Biogenic Carbon dioxide,0
+1005423,2015,Biogenic Carbon dioxide,0
+1005423,2015,Methane,0
+1005423,2015,Carbon Dioxide,1163.8
+1001834,2016,Biogenic Carbon dioxide,0
+1001834,2016,Nitrous Oxide,.327
+1000029,2010,Methane,0
+1000029,2010,Nitrous Oxide,0
+1003093,2016,Biogenic Carbon dioxide,0
+1002903,2016,Carbon Dioxide,64590.4
+1001618,2010,Biogenic Carbon dioxide,0
+1001618,2010,Methane,0
+1003981,2011,Nitrous Oxide,0
+1003965,2015,Nitrous Oxide,0
+1003965,2015,Carbon Dioxide,19358.1
+1003981,2014,Carbon Dioxide,49826.1
+1003981,2016,Methane,0
+1004038,2011,Methane,0
+1004038,2012,Methane,0
+1004038,2013,Carbon Dioxide,45716.1
+1004038,2014,Nitrous Oxide,0
+1004259,2011,Methane,0
+1004259,2011,Carbon Dioxide,161394
+1004259,2012,Biogenic Carbon dioxide,0
+1004616,2010,Carbon Dioxide,252724
+1004616,2014,Biogenic Carbon dioxide,0
+1004616,2014,Nitrous Oxide,0
+1004434,2011,Nitrous Oxide,0
+1004453,2011,Nitrous Oxide,0
+1004453,2012,Biogenic Carbon dioxide,0
+1004434,2013,Methane,0
+1004509,2013,Biogenic Carbon dioxide,0
+1004215,2016,Biogenic Carbon dioxide,0
+1004458,2013,Nitrous Oxide,0
+1004493,2010,Methane,0
+1004458,2015,Nitrous Oxide,0
+1004493,2012,Methane,0
+1004511,2010,Biogenic Carbon dioxide,0
+1004511,2010,Nitrous Oxide,0
+1004511,2011,Methane,.1
+1004511,2011,Carbon Dioxide,18639.5
+1004493,2016,Carbon Dioxide,26364.6
+1004511,2012,Methane,.1
+1004511,2015,Methane,.07
+1005116,2010,Biogenic Carbon dioxide,0
+1005144,2010,Carbon Dioxide,324219
+1005144,2012,Carbon Dioxide,475804.6
+1005144,2016,Methane,0
+1005116,2013,Methane,0
+1005003,2010,Carbon Dioxide,27072
+1005116,2015,Carbon Dioxide,222202
+1005003,2011,Methane,0
+1005116,2016,Biogenic Carbon dioxide,0
+1005190,2014,Biogenic Carbon dioxide,0
+1005190,2014,Methane,0
+1005283,2010,Biogenic Carbon dioxide,0
+1005283,2012,Nitrous Oxide,0
+1005003,2013,Nitrous Oxide,0
+1005190,2016,Methane,0
+1005190,2016,Carbon Dioxide,25603.4
+1005283,2013,Nitrous Oxide,0
+1005283,2014,Nitrous Oxide,0
+1005003,2014,Carbon Dioxide,26109.3
+1005283,2016,Carbon Dioxide,97372.2
+1005163,2010,Biogenic Carbon dioxide,0
+1004151,2012,Methane,.25
+1004151,2012,Nitrous Oxide,.025
+1004151,2013,Methane,.26
+1004151,2016,Nitrous Oxide,.029
+1004152,2010,Nitrous Oxide,0
+1004152,2011,Methane,0
+1004152,2015,Nitrous Oxide,0
+1004411,2014,Biogenic Carbon dioxide,0
+1004411,2016,Nitrous Oxide,0
+1004411,2016,Carbon Dioxide,34273.7
+1005276,2010,Nitrous Oxide,0
+1005276,2010,Carbon Dioxide,179153.5
+1005303,2011,Nitrous Oxide,0
+1005344,2012,Carbon Dioxide,81154.3
+1004729,2010,Nitrous Oxide,0
+1005021,2014,Nitrous Oxide,0
+1005021,2014,Carbon Dioxide,24806.1
+1005021,2015,Carbon Dioxide,3578
+1005276,2011,Biogenic Carbon dioxide,0
+1004729,2013,Carbon Dioxide,29709
+1005344,2016,Carbon Dioxide,62115.4
+1004729,2015,Carbon Dioxide,26152.6
+1005294,2016,Methane,0
+1005298,2014,Methane,0
+1005298,2016,Methane,0
+1005584,2010,Nitrous Oxide,0
+1005602,2011,Nitrous Oxide,0
+1005584,2011,Methane,0
+1005602,2013,Nitrous Oxide,0
+1005752,2011,Nitrous Oxide,0
+1005752,2012,Methane,0
+1005584,2014,Biogenic Carbon dioxide,0
+1005602,2015,Nitrous Oxide,0
+1005602,2016,Nitrous Oxide,0
+1005584,2015,Biogenic Carbon dioxide,0
+1005584,2016,Biogenic Carbon dioxide,0
+1005515,2014,Methane,0
+1005598,2013,Biogenic Carbon dioxide,0
+1005598,2013,Methane,0
+1005598,2013,Nitrous Oxide,0
+1005598,2016,Nitrous Oxide,0
+1005832,2013,Nitrous Oxide,.02
+1005832,2015,Nitrous Oxide,.016
+1005832,2015,Carbon Dioxide,74489.4
+1005832,2016,Nitrous Oxide,.018
+1006159,2014,Nitrous Oxide,0
+1005800,2010,Biogenic Carbon dioxide,0
+1005800,2010,Nitrous Oxide,0
+1006159,2016,Carbon Dioxide,399810
+1005800,2011,Biogenic Carbon dioxide,0
+1005800,2014,Nitrous Oxide,0
+1005801,2013,Methane,0
+1005801,2015,Methane,0
+1005801,2015,Carbon Dioxide,17320.5
+1006144,2012,Carbon Dioxide,48475.7
+1006144,2013,Biogenic Carbon dioxide,0
+1006144,2015,Methane,.05
+1005976,2014,Biogenic Carbon dioxide,0
+1005832,2010,Nitrous Oxide,.01
+1005752,2013,Nitrous Oxide,0
+1005752,2015,Carbon Dioxide,37168
+1005752,2016,Biogenic Carbon dioxide,0
+1005752,2016,Nitrous Oxide,0
+1005700,2010,Nitrous Oxide,0
+1005700,2014,Nitrous Oxide,0
+1005700,2015,Nitrous Oxide,0
+1005700,2015,Carbon Dioxide,165314.2
+1005755,2015,Biogenic Carbon dioxide,0
+1005755,2016,Carbon Dioxide,26920.9
+1005700,2016,Carbon Dioxide,153774.5
+1006269,2010,Biogenic Carbon dioxide,0
+1006269,2011,Nitrous Oxide,0
+1006269,2012,Methane,0
+1006269,2016,Methane,0
+1006325,2010,Methane,0
+1006325,2015,Nitrous Oxide,0
+1006875,2012,Nitrous Oxide,.001
+1006875,2015,Methane,.02
+1006875,2016,Biogenic Carbon dioxide,0
+1006875,2016,Methane,.01
+1006708,2011,Biogenic Carbon dioxide,0
+1006708,2013,Carbon Dioxide,18839.8
+1006530,2011,Carbon Dioxide,34701
+1006972,2013,Carbon Dioxide,7611
+1006972,2015,Biogenic Carbon dioxide,0
+1006875,2010,Carbon Dioxide,1547
+1006875,2011,Biogenic Carbon dioxide,0
+1007287,2010,Nitrous Oxide,0
+1007287,2010,Carbon Dioxide,755846
+1007287,2012,Nitrous Oxide,0
+1007287,2013,Nitrous Oxide,0
+1007287,2014,Biogenic Carbon dioxide,0
+1006901,2013,Nitrous Oxide,0
+1006906,2012,Methane,0
+1006906,2012,Carbon Dioxide,45045
+1006906,2016,Methane,0
+1007348,2015,Methane,0
+1007392,2014,Carbon Dioxide,74286.5
+1007392,2015,Methane,.52
+1007392,2015,Nitrous Oxide,.109
+1007392,2016,Carbon Dioxide,44126.3
+1007642,2013,Methane,.48
+1008263,2011,Methane,0
+1007921,2014,Carbon Dioxide,257285.2
+1007921,2016,Nitrous Oxide,0
+1007866,2011,Nitrous Oxide,0
+1007866,2012,Nitrous Oxide,0
+1007866,2013,Biogenic Carbon dioxide,0
+1007866,2014,Nitrous Oxide,0
+1007866,2014,Carbon Dioxide,49128.7
+1007866,2015,Methane,0
+1007866,2016,Nitrous Oxide,0
+1008735,2011,Methane,0
+1008735,2014,Methane,0
+1007620,2012,Biogenic Carbon dioxide,0
+1007620,2015,Biogenic Carbon dioxide,0
+1003507,2011,Biogenic Carbon dioxide,0
+1003507,2012,Methane,0
+1003507,2014,Methane,0
+1003507,2014,Nitrous Oxide,0
+1003507,2014,Carbon Dioxide,21389
+1003507,2015,Nitrous Oxide,0
+1003507,2015,Carbon Dioxide,14766.2
+1003577,2013,Methane,0
+1003688,2016,Biogenic Carbon dioxide,0
+1003668,2010,Biogenic Carbon dioxide,0
+1003668,2012,Carbon Dioxide,76633.4
+1003668,2013,Biogenic Carbon dioxide,0
+1003668,2014,Nitrous Oxide,0
+1003668,2015,Methane,0
+1003668,2016,Biogenic Carbon dioxide,0
+1003669,2011,Nitrous Oxide,0
+1003669,2014,Methane,0
+1003669,2016,Methane,0
+1003799,2011,Methane,0
+1003799,2012,Methane,0
+1003860,2013,Biogenic Carbon dioxide,0
+1003860,2015,Carbon Dioxide,58190.5
+1003965,2011,Methane,0
+1003965,2011,Carbon Dioxide,28143
+1003965,2012,Biogenic Carbon dioxide,0
+1003965,2012,Nitrous Oxide,0
+1003965,2013,Nitrous Oxide,0
+1007695,2010,Methane,.22
+1007695,2010,Carbon Dioxide,129341.2
+1007695,2011,Biogenic Carbon dioxide,0
+1007946,2013,Carbon Dioxide,107359.4
+1007946,2015,Biogenic Carbon dioxide,0
+1007695,2015,Methane,.27
+1007695,2015,Carbon Dioxide,87323.9
+1007695,2016,Biogenic Carbon dioxide,0
+1007577,2010,Carbon Dioxide,25150.6
+1007577,2013,Nitrous Oxide,0
+1007577,2014,Methane,0
+1007577,2014,Carbon Dioxide,38912
+1007577,2016,Methane,0
+1011242,2014,Carbon Dioxide,9862.5
+1011242,2016,Nitrous Oxide,0
+1011242,2016,Carbon Dioxide,7162.2
+1012625,2016,Biogenic Carbon dioxide,0
+1012625,2016,Nitrous Oxide,0
+1011726,2012,Carbon Dioxide,1334.3
+1010925,2011,Carbon Dioxide,5839.2
+1011726,2013,Biogenic Carbon dioxide,0
+1010763,2014,Biogenic Carbon dioxide,0
+1010763,2014,Nitrous Oxide,0
+1010763,2015,Biogenic Carbon dioxide,0
+1010763,2015,Nitrous Oxide,0
+1010766,2014,Nitrous Oxide,0
+1000159,2010,Methane,0
+1007177,2010,Methane,.02
+1000233,2010,Carbon Dioxide,443785
+1002216,2010,Biogenic Carbon dioxide,0
+1004811,2016,Biogenic Carbon dioxide,0
+1005025,2016,Carbon Dioxide,31208.4
+1004151,2011,Biogenic Carbon dioxide,0
+1004036,2011,Methane,0
+1004036,2011,Carbon Dioxide,10805.2
+1000156,2012,Nitrous Oxide,.42
+1007577,2015,Biogenic Carbon dioxide,0
+1007577,2015,Methane,0
+1007177,2015,Methane,.02
+1007177,2015,Nitrous Oxide,.078
+1000156,2014,Carbon Dioxide,1078147.8
+1000274,2014,Biogenic Carbon dioxide,0
+1000274,2014,Nitrous Oxide,.831
+1005976,2012,Nitrous Oxide,0
+1000588,2014,Nitrous Oxide,.31
+1000124,2014,Nitrous Oxide,0
+1003799,2010,Nitrous Oxide,0
+1003799,2010,Carbon Dioxide,171752.5
+1001563,2012,Methane,.41
+1001563,2012,Carbon Dioxide,12660.2
+1004458,2014,Methane,0
+1004458,2014,Nitrous Oxide,0
+1005536,2012,Nitrous Oxide,0
+1005536,2012,Carbon Dioxide,7234.1
+1005777,2014,Methane,.19
+1003962,2010,Carbon Dioxide,1526701.1
+1004811,2014,Biogenic Carbon dioxide,0
+1005276,2013,Methane,0
+1005276,2013,Carbon Dioxide,118384.7
+1000418,2014,Biogenic Carbon dioxide,0
+1006041,2014,Methane,.39
+1001621,2012,Carbon Dioxide,1324403.2
+1000553,2011,Biogenic Carbon dioxide,0
+1000274,2011,Biogenic Carbon dioxide,0
+1000274,2011,Methane,.18
+1005276,2015,Carbon Dioxide,117874.6
+1005003,2016,Biogenic Carbon dioxide,0
+1004453,2015,Biogenic Carbon dioxide,0
+1005615,2012,Biogenic Carbon dioxide,0
+1005615,2012,Carbon Dioxide,542126.3
+1006341,2015,Biogenic Carbon dioxide,0
+1006341,2015,Nitrous Oxide,.015
+1003669,2015,Methane,0
+1000233,2016,Methane,0
+1001563,2011,Methane,.42
+1003474,2016,Carbon Dioxide,73202.8
+1004036,2016,Carbon Dioxide,9862.7
+1006041,2010,Methane,.33
+1005190,2011,Nitrous Oxide,0
+1005777,2015,Nitrous Oxide,.016
+1005777,2015,Carbon Dioxide,76003.8
+1002958,2010,Biogenic Carbon dioxide,0
+1002958,2010,Methane,0
+1002958,2010,Carbon Dioxide,205348.8
+1000588,2015,Carbon Dioxide,721321.8
+1000159,2011,Methane,0
+1004259,2013,Carbon Dioxide,116881.5
+1007177,2012,Biogenic Carbon dioxide,0
+1004036,2010,Carbon Dioxide,7256.9
+1004811,2011,Biogenic Carbon dioxide,0
+1003902,2011,Biogenic Carbon dioxide,0
+1000330,2010,Carbon Dioxide,36090
+1005536,2014,Methane,0
+1005536,2014,Nitrous Oxide,0
+1003902,2012,Methane,0
+1002621,2011,Nitrous Oxide,0
+1002769,2011,Methane,0
+1003268,2011,Biogenic Carbon dioxide,0
+1003981,2012,Biogenic Carbon dioxide,0
+1004729,2012,Methane,0
+1005163,2011,Methane,0
+1005190,2012,Nitrous Oxide,0
+1006144,2011,Methane,0
+1006708,2012,Nitrous Oxide,0
+1005423,2011,Nitrous Oxide,0
+1005755,2011,Biogenic Carbon dioxide,0
+1005755,2011,Carbon Dioxide,31447.2
+1000029,2014,Methane,0
+1000029,2016,Methane,0
+1000029,2016,Nitrous Oxide,0
+1000235,2016,Methane,0
+1000235,2012,Carbon Dioxide,8806
+1000330,2012,Carbon Dioxide,29914
+1000330,2013,Methane,0
+1000330,2016,Carbon Dioxide,23246.8
+1000394,2011,Biogenic Carbon dioxide,0
+1000394,2013,Biogenic Carbon dioxide,0
+1000394,2013,Methane,0
+1000394,2013,Nitrous Oxide,0
+1000399,2011,Carbon Dioxide,600.7
+1000399,2013,Carbon Dioxide,582
+1000399,2014,Biogenic Carbon dioxide,0
+1000399,2014,Nitrous Oxide,0
+1000399,2015,Carbon Dioxide,630.9
+1000399,2016,Biogenic Carbon dioxide,0
+1000399,2016,Nitrous Oxide,0
+1000588,2010,Carbon Dioxide,305426.3
+1000714,2010,Carbon Dioxide,12259
+1000714,2012,Nitrous Oxide,0
+1000714,2013,Methane,0
+1000714,2013,Nitrous Oxide,0
+1000714,2014,Methane,0
+1000802,2011,Biogenic Carbon dioxide,0
+1001103,2012,Biogenic Carbon dioxide,0
+1001103,2014,Methane,0
+1001618,2012,Carbon Dioxide,249764.6
+1001673,2014,Carbon Dioxide,1564.6
+1001673,2015,Methane,0
+1001699,2011,Nitrous Oxide,0
+1001669,2015,Methane,0
+1001673,2013,Methane,0
+1001958,2015,Nitrous Oxide,0
+1001958,2015,Carbon Dioxide,59.7
+1002147,2011,Biogenic Carbon dioxide,0
+1002147,2012,Carbon Dioxide,222612.7
+1002147,2013,Nitrous Oxide,0
+1002266,2010,Methane,.63
+1002266,2011,Methane,.64
+1002266,2016,Nitrous Oxide,.053
+1002216,2014,Carbon Dioxide,25772.7
+1002714,2015,Methane,0
+1002777,2010,Biogenic Carbon dioxide,0
+1002777,2013,Methane,0
+1002777,2014,Nitrous Oxide,0
+1002777,2015,Nitrous Oxide,0
+1002768,2011,Biogenic Carbon dioxide,0
+1002768,2011,Carbon Dioxide,66849.8
+1002768,2012,Biogenic Carbon dioxide,0
+1002769,2010,Biogenic Carbon dioxide,0
+1002769,2012,Biogenic Carbon dioxide,0
+1002903,2010,Nitrous Oxide,0
+1002903,2012,Methane,0
+1002903,2012,Nitrous Oxide,0
+1002903,2013,Carbon Dioxide,94909
+1002958,2012,Methane,0
+1002958,2013,Methane,0
+1002958,2014,Nitrous Oxide,0
+1002977,2010,Methane,0
+1002977,2010,Carbon Dioxide,43717.6
+1002958,2016,Methane,0
+1002977,2011,Methane,0
+1002977,2012,Biogenic Carbon dioxide,0
+1002977,2013,Nitrous Oxide,0
+1002977,2016,Biogenic Carbon dioxide,0
+1003204,2010,Methane,0
+1003204,2013,Nitrous Oxide,0
+1003204,2013,Carbon Dioxide,601565
+1003204,2014,Biogenic Carbon dioxide,0
+1003204,2014,Methane,0
+1003204,2012,Carbon Dioxide,506851
+1003204,2015,Nitrous Oxide,0
+1003204,2016,Nitrous Oxide,0
+1003204,2016,Carbon Dioxide,616184.7
+1003093,2014,Methane,.61
+1003093,2014,Carbon Dioxide,64076.6
+1003052,2013,Carbon Dioxide,22794.3
+1003052,2016,Biogenic Carbon dioxide,0
+1003052,2016,Nitrous Oxide,0
+1003268,2012,Carbon Dioxide,27089
+1003268,2013,Methane,0
+1003268,2013,Carbon Dioxide,21438.9
+1003268,2014,Carbon Dioxide,22674.4
+1003268,2016,Biogenic Carbon dioxide,0
+1003380,2011,Methane,.2
+1003380,2013,Biogenic Carbon dioxide,0
+1003380,2013,Nitrous Oxide,.008
+1003380,2015,Carbon Dioxide,9528
+1003474,2012,Methane,0
+1003474,2012,Nitrous Oxide,0
+1003474,2013,Methane,0
+1003474,2014,Nitrous Oxide,0
+1003403,2011,Carbon Dioxide,361146.5
+1003457,2014,Nitrous Oxide,0
+1003457,2014,Carbon Dioxide,193283.6
+1003403,2014,Carbon Dioxide,367442.9
+1003457,2015,Biogenic Carbon dioxide,0
+1003457,2016,Carbon Dioxide,171139.8
+1003577,2015,Biogenic Carbon dioxide,0
+1003577,2015,Carbon Dioxide,7182.1
+1003580,2010,Biogenic Carbon dioxide,0
+1003580,2010,Nitrous Oxide,0
+1003580,2014,Biogenic Carbon dioxide,0
+1000124,2015,Biogenic Carbon dioxide,0
+1006041,2015,Methane,.12
+1006041,2015,Carbon Dioxide,601755.3
+1001834,2015,Nitrous Oxide,.211
+1001621,2015,Nitrous Oxide,0
+1000588,2012,Nitrous Oxide,.297
+1004811,2015,Methane,0
+1004811,2015,Nitrous Oxide,0
+1005344,2015,Nitrous Oxide,0
+1005536,2015,Methane,0
+1005598,2015,Nitrous Oxide,0
+1005615,2015,Nitrous Oxide,.261
+1006041,2011,Biogenic Carbon dioxide,0
+1001621,2011,Methane,0
+1001621,2011,Nitrous Oxide,0
+1007177,2013,Biogenic Carbon dioxide,0
+1000156,2013,Biogenic Carbon dioxide,0
+1000159,2013,Biogenic Carbon dioxide,0
+1000156,2016,Carbon Dioxide,999550.3
+1000418,2010,Nitrous Oxide,.234
+1001618,2010,Nitrous Oxide,0
+1001621,2010,Nitrous Oxide,0
+1000156,2010,Nitrous Oxide,.512
+1003981,2015,Nitrous Oxide,0
+1003981,2015,Carbon Dioxide,48407.8
+1003981,2016,Nitrous Oxide,0
+1004038,2010,Carbon Dioxide,30703.5
+1004038,2011,Biogenic Carbon dioxide,0
+1004259,2010,Nitrous Oxide,0
+1004259,2010,Carbon Dioxide,128649
+1004259,2014,Nitrous Oxide,0
+1004616,2010,Nitrous Oxide,0
+1004215,2011,Biogenic Carbon dioxide,0
+1004616,2014,Methane,0
+1004616,2015,Methane,0
+1004215,2013,Carbon Dioxide,39871.4
+1004215,2014,Biogenic Carbon dioxide,0
+1004215,2014,Nitrous Oxide,0
+1004434,2010,Biogenic Carbon dioxide,0
+1004453,2016,Biogenic Carbon dioxide,0
+1004453,2016,Methane,0
+1004453,2016,Nitrous Oxide,0
+1004453,2016,Carbon Dioxide,10946.8
+1004434,2016,Methane,0
+1004458,2012,Carbon Dioxide,1047659
+1004509,2015,Nitrous Oxide,0
+1004493,2010,Biogenic Carbon dioxide,0
+1004493,2010,Carbon Dioxide,25202
+1004458,2015,Carbon Dioxide,898119
+1004458,2016,Methane,0
+1004511,2013,Methane,.1
+1004511,2014,Carbon Dioxide,14823.5
+1004511,2015,Nitrous Oxide,.015
+1005144,2010,Biogenic Carbon dioxide,0
+1005144,2011,Biogenic Carbon dioxide,0
+1005144,2012,Biogenic Carbon dioxide,0
+1005294,2012,Nitrous Oxide,0
+1005116,2011,Biogenic Carbon dioxide,0
+1005116,2011,Nitrous Oxide,0
+1005144,2015,Biogenic Carbon dioxide,0
+1005144,2015,Nitrous Oxide,0
+1005144,2015,Carbon Dioxide,88812.6
+1005144,2016,Biogenic Carbon dioxide,0
+1005025,2015,Nitrous Oxide,.067
+1005116,2014,Methane,0
+1005003,2010,Biogenic Carbon dioxide,0
+1005116,2016,Nitrous Oxide,0
+1005190,2010,Methane,0
+1005190,2013,Methane,0
+1005283,2014,Methane,0
+1005283,2015,Nitrous Oxide,0
+1005283,2015,Carbon Dioxide,99190.1
+1005163,2010,Nitrous Oxide,0
+1005163,2010,Carbon Dioxide,153129.8
+1005163,2014,Biogenic Carbon dioxide,0
+1005163,2016,Carbon Dioxide,146985.2
+1005294,2010,Nitrous Oxide,0
+1004151,2014,Biogenic Carbon dioxide,0
+1004151,2015,Methane,.26
+1004151,2016,Biogenic Carbon dioxide,0
+1004152,2014,Biogenic Carbon dioxide,0
+1004152,2014,Methane,0
+1004152,2014,Nitrous Oxide,0
+1004152,2015,Methane,0
+1004411,2014,Methane,0
+1005344,2010,Biogenic Carbon dioxide,0
+1005344,2010,Nitrous Oxide,0
+1005344,2010,Carbon Dioxide,78031.3
+1005021,2011,Biogenic Carbon dioxide,0
+1005276,2010,Biogenic Carbon dioxide,0
+1005303,2012,Nitrous Oxide,0
+1004729,2010,Methane,0
+1005021,2014,Methane,0
+1005021,2015,Methane,0
+1005303,2013,Nitrous Oxide,0
+1004729,2014,Nitrous Oxide,0
+1004729,2014,Carbon Dioxide,41897.4
+1005276,2012,Carbon Dioxide,168525
+1005294,2013,Methane,0
+1005294,2013,Carbon Dioxide,271255.1
+1005346,2013,Nitrous Oxide,0
+1005346,2013,Carbon Dioxide,73419.1
+1005346,2014,Carbon Dioxide,42820.6
+1005298,2010,Nitrous Oxide,0
+1005298,2013,Carbon Dioxide,13209
+1005602,2011,Methane,0
+1005602,2011,Carbon Dioxide,60246
+1005602,2012,Biogenic Carbon dioxide,0
+1005584,2012,Biogenic Carbon dioxide,0
+1005584,2012,Nitrous Oxide,0
+1005752,2010,Biogenic Carbon dioxide,0
+1005752,2011,Biogenic Carbon dioxide,0
+1005584,2013,Carbon Dioxide,715668
+1005602,2015,Methane,0
+1005602,2016,Carbon Dioxide,126128.4
+1005515,2010,Biogenic Carbon dioxide,0
+1005515,2011,Nitrous Oxide,0
+1005515,2012,Biogenic Carbon dioxide,0
+1005515,2016,Methane,0
+1005423,2013,Carbon Dioxide,1521.2
+1005423,2016,Nitrous Oxide,0
+1005423,2016,Carbon Dioxide,666.7
+1005832,2013,Methane,.18
+1005832,2014,Biogenic Carbon dioxide,0
+1006159,2012,Methane,0
+1005832,2015,Biogenic Carbon dioxide,0
+1006159,2013,Biogenic Carbon dioxide,0
+1005800,2010,Methane,0
+1006159,2016,Biogenic Carbon dioxide,0
+1005800,2011,Nitrous Oxide,0
+1005800,2012,Methane,0
+1005800,2013,Carbon Dioxide,12846.8
+1005800,2016,Biogenic Carbon dioxide,0
+1005801,2013,Biogenic Carbon dioxide,0
+1005801,2016,Biogenic Carbon dioxide,0
+1006144,2012,Nitrous Oxide,.009
+1005976,2013,Nitrous Oxide,0
+1006144,2014,Biogenic Carbon dioxide,0
+1005777,2010,Biogenic Carbon dioxide,0
+1005976,2016,Nitrous Oxide,0
+1005752,2015,Methane,0
+1005755,2012,Carbon Dioxide,30018
+1005700,2011,Nitrous Oxide,0
+1005700,2011,Carbon Dioxide,184098
+1005755,2014,Biogenic Carbon dioxide,0
+1005700,2013,Methane,0
+1005755,2016,Nitrous Oxide,0
+1006269,2013,Nitrous Oxide,0
+1006269,2014,Nitrous Oxide,0
+1006341,2013,Nitrous Oxide,.011
+1006325,2011,Methane,0
+1006325,2013,Nitrous Oxide,0
+1006436,2012,Biogenic Carbon dioxide,0
+1006325,2014,Methane,0
+1006325,2014,Nitrous Oxide,0
+1006325,2015,Biogenic Carbon dioxide,0
+1006875,2013,Biogenic Carbon dioxide,0
+1006875,2014,Methane,0
+1006708,2010,Nitrous Oxide,0
+1006708,2013,Biogenic Carbon dioxide,0
+1006708,2015,Nitrous Oxide,0
+1006708,2016,Biogenic Carbon dioxide,0
+1006972,2010,Biogenic Carbon dioxide,0
+1006972,2011,Biogenic Carbon dioxide,0
+1006530,2012,Biogenic Carbon dioxide,0
+1006530,2012,Methane,0
+1006972,2015,Nitrous Oxide,0
+1006530,2013,Carbon Dioxide,34411
+1006530,2014,Methane,0
+1006875,2011,Methane,.01
+1006530,2015,Methane,0
+1006530,2015,Nitrous Oxide,0
+1006530,2016,Biogenic Carbon dioxide,0
+1006530,2016,Carbon Dioxide,49006.5
+1007287,2011,Nitrous Oxide,0
+1007287,2012,Biogenic Carbon dioxide,0
+1007287,2013,Methane,0
+1007287,2016,Biogenic Carbon dioxide,0
+1006585,2012,Biogenic Carbon dioxide,0
+1006585,2012,Carbon Dioxide,6727.5
+1006901,2012,Biogenic Carbon dioxide,0
+1006901,2013,Methane,0
+1006901,2014,Methane,0
+1006901,2016,Methane,0
+1006585,2016,Nitrous Oxide,0
+1006906,2010,Biogenic Carbon dioxide,0
+1006906,2011,Methane,0
+1006906,2011,Carbon Dioxide,47638
+1007348,2015,Nitrous Oxide,0
+1007348,2016,Methane,0
+1007392,2010,Biogenic Carbon dioxide,0
+1007392,2011,Carbon Dioxide,112078
+1007392,2015,Carbon Dioxide,73969.5
+1007392,2016,Methane,.4
+1007348,2011,Carbon Dioxide,23883
+1007348,2014,Nitrous Oxide,0
+1007642,2010,Carbon Dioxide,174024
+1007642,2012,Biogenic Carbon dioxide,0
+1007642,2012,Nitrous Oxide,.041
+1007642,2016,Nitrous Oxide,.043
+1007642,2016,Carbon Dioxide,155552
+1007921,2011,Methane,0
+1007921,2011,Nitrous Oxide,0
+1007921,2016,Methane,0
+1007866,2013,Methane,0
+1007866,2014,Biogenic Carbon dioxide,0
+1008735,2014,Carbon Dioxide,7065.8
+1008735,2015,Nitrous Oxide,0
+1008735,2016,Carbon Dioxide,6411.3
+1007620,2011,Biogenic Carbon dioxide,0
+1007620,2012,Carbon Dioxide,1168
+1007620,2016,Biogenic Carbon dioxide,0
+1003507,2013,Methane,0
+1003507,2016,Nitrous Oxide,0
+1003507,2016,Carbon Dioxide,15733.3
+1003577,2010,Biogenic Carbon dioxide,0
+1003577,2012,Nitrous Oxide,0
+1003577,2013,Carbon Dioxide,5721
+1003688,2010,Biogenic Carbon dioxide,0
+1003688,2011,Methane,0
+1003688,2015,Methane,0
+1003668,2011,Biogenic Carbon dioxide,0
+1003668,2011,Methane,0
+1003668,2011,Carbon Dioxide,92090.2
+1003668,2013,Carbon Dioxide,79509.4
+1003668,2015,Biogenic Carbon dioxide,0
+1003669,2010,Methane,0
+1003669,2013,Biogenic Carbon dioxide,0
+1003669,2014,Carbon Dioxide,215289.6
+1003669,2016,Carbon Dioxide,233486.5
+1003799,2011,Biogenic Carbon dioxide,0
+1003799,2013,Biogenic Carbon dioxide,0
+1003799,2013,Carbon Dioxide,121032
+1003799,2015,Biogenic Carbon dioxide,0
+1003799,2016,Carbon Dioxide,54713.7
+1003860,2011,Carbon Dioxide,176351
+1003860,2012,Methane,0
+1003860,2015,Biogenic Carbon dioxide,0
+1003965,2010,Nitrous Oxide,0
+1003965,2011,Biogenic Carbon dioxide,0
+1003965,2012,Carbon Dioxide,26383.1
+1007946,2010,Carbon Dioxide,91643.8
+1007946,2012,Carbon Dioxide,90885
+1007946,2013,Methane,.12
+1007695,2012,Carbon Dioxide,113383.9
+1007695,2013,Carbon Dioxide,110337
+1007695,2014,Methane,.25
+1007946,2014,Biogenic Carbon dioxide,0
+1007577,2012,Biogenic Carbon dioxide,0
+1012352,2016,Biogenic Carbon dioxide,0
+1012625,2016,Carbon Dioxide,157612.2
+1011726,2013,Carbon Dioxide,910.5
+1011726,2014,Methane,0
+1010925,2012,Biogenic Carbon dioxide,0
+1010925,2014,Carbon Dioxide,4736
+1010766,2014,Carbon Dioxide,67167
+1000177,2010,Biogenic Carbon dioxide,0
+1000177,2010,Methane,0
+1000233,2010,Methane,.01
+1002769,2013,Biogenic Carbon dioxide,0
+1004151,2011,Methane,.26
+1004151,2011,Nitrous Oxide,.026
+1005276,2016,Methane,0
+1003962,2012,Biogenic Carbon dioxide,0
+1005536,2011,Nitrous Oxide,0
+1000156,2012,Carbon Dioxide,1761750.2
+1000233,2012,Biogenic Carbon dioxide,0
+1003962,2013,Carbon Dioxide,2787969.9
+1007577,2015,Nitrous Oxide,0
+1000156,2014,Methane,.04
+1007177,2014,Methane,.03
+1007177,2014,Nitrous Oxide,.134
+1007177,2014,Carbon Dioxide,741653.7
+1006708,2014,Nitrous Oxide,0
+1005976,2012,Carbon Dioxide,212470.5
+1000588,2014,Carbon Dioxide,1095776
+1000124,2014,Carbon Dioxide,38806.8
+1001563,2013,Carbon Dioxide,9664.1
+1003799,2010,Biogenic Carbon dioxide,0
+1004036,2012,Nitrous Oxide,0
+1000274,2013,Methane,.18
+1005777,2012,Methane,215.48
+1004811,2012,Biogenic Carbon dioxide,0
+1004811,2012,Methane,0
+1005777,2014,Nitrous Oxide,.019
+1005615,2010,Methane,.04
+1005598,2010,Biogenic Carbon dioxide,0
+1005614,2010,Biogenic Carbon dioxide,0
+1005615,2014,Nitrous Oxide,.04
+1001563,2014,Methane,.09
+1005614,2011,Methane,.05
+1005276,2013,Biogenic Carbon dioxide,0
+1005276,2013,Nitrous Oxide,0
+1000418,2016,Methane,.05
+1005190,2015,Carbon Dioxide,34164.1
+1003669,2015,Nitrous Oxide,0
+1003902,2016,Nitrous Oxide,0
+1000233,2016,Carbon Dioxide,323428.2
+1005800,2015,Biogenic Carbon dioxide,0
+1005777,2016,Methane,.14
+1006041,2010,Nitrous Oxide,.434
+1002621,2010,Carbon Dioxide,48100.5
+1005003,2015,Methane,0
+1005777,2015,Methane,.16
+1000233,2015,Methane,.03
+1000233,2014,Carbon Dioxide,700701.4
+1000159,2011,Nitrous Oxide,.01
+1004259,2013,Nitrous Oxide,0
+1004411,2013,Nitrous Oxide,0
+1001699,2015,Biogenic Carbon dioxide,0
+1001699,2015,Nitrous Oxide,0
+1003474,2010,Methane,0
+1006041,2013,Biogenic Carbon dioxide,0
+1004036,2010,Methane,0
+1004036,2010,Nitrous Oxide,0
+1003962,2011,Biogenic Carbon dioxide,0
+1000418,2012,Biogenic Carbon dioxide,0
+1004811,2011,Carbon Dioxide,66110.8
+1000159,2012,Biogenic Carbon dioxide,0
+1004411,2010,Biogenic Carbon dioxide,0
+1000330,2010,Methane,0
+1005536,2010,Methane,0
+1001834,2012,Methane,.12
+1001618,2011,Carbon Dioxide,227930.6
+1008735,2012,Carbon Dioxide,20270
+1000330,2011,Carbon Dioxide,35791.8
+1001103,2011,Nitrous Oxide,0
+1002621,2011,Biogenic Carbon dioxide,0
+1002958,2011,Biogenic Carbon dioxide,0
+1002958,2011,Carbon Dioxide,278617
+1004434,2012,Biogenic Carbon dioxide,0
+1006436,2011,Methane,0
+1005163,2011,Biogenic Carbon dioxide,0
+1005298,2011,Methane,0
+1006972,2012,Methane,0
+1006144,2011,Biogenic Carbon dioxide,0
+1006144,2011,Nitrous Oxide,0
+1005423,2011,Carbon Dioxide,2956.9
+1011726,2011,Biogenic Carbon dioxide,0
+1000029,2011,Nitrous Oxide,0
+1000029,2013,Biogenic Carbon dioxide,0
+1000029,2014,Biogenic Carbon dioxide,0
+1000029,2015,Biogenic Carbon dioxide,0
+1000235,2014,Carbon Dioxide,6425
+1000235,2010,Biogenic Carbon dioxide,0
+1000235,2011,Biogenic Carbon dioxide,0
+1000330,2012,Biogenic Carbon dioxide,0
+1000330,2013,Biogenic Carbon dioxide,0
+1000394,2012,Nitrous Oxide,0
+1000394,2014,Nitrous Oxide,0
+1000399,2010,Methane,0
+1000399,2013,Nitrous Oxide,0
+1000714,2011,Biogenic Carbon dioxide,0
+1000714,2012,Carbon Dioxide,6199
+1000714,2015,Methane,0
+1000714,2015,Carbon Dioxide,40181
+1000802,2010,Nitrous Oxide,.028
+1000802,2012,Biogenic Carbon dioxide,0
+1000802,2014,Methane,.76
+1000802,2015,Nitrous Oxide,.057
+1000802,2016,Biogenic Carbon dioxide,0
+1001103,2012,Carbon Dioxide,26841
+1001103,2015,Nitrous Oxide,0
+1001103,2015,Carbon Dioxide,28202
+1001621,2013,Carbon Dioxide,1376884.7
+1001673,2014,Methane,0
+1001673,2014,Nitrous Oxide,0
+1001673,2015,Biogenic Carbon dioxide,0
+1001673,2015,Nitrous Oxide,0
+1001699,2012,Biogenic Carbon dioxide,0
+1001699,2012,Carbon Dioxide,38935
+1001699,2013,Carbon Dioxide,33341
+1001669,2011,Carbon Dioxide,29660
+1001669,2014,Nitrous Oxide,0
+1001673,2012,Nitrous Oxide,0
+1001958,2011,Nitrous Oxide,0
+1001958,2014,Biogenic Carbon dioxide,0
+1001958,2015,Methane,0
+1001958,2016,Methane,0
+1002147,2016,Methane,0
+1002147,2016,Carbon Dioxide,183532.7
+1002266,2010,Carbon Dioxide,317234.3
+1002266,2011,Carbon Dioxide,290324.6
+1002266,2013,Methane,.59
+1002216,2011,Carbon Dioxide,33604
+1002216,2013,Methane,0
+1002216,2015,Carbon Dioxide,25651.4
+1002621,2012,Methane,0
+1002621,2014,Methane,0
+1002768,2010,Biogenic Carbon dioxide,0
+1002777,2016,Biogenic Carbon dioxide,0
+1002777,2016,Carbon Dioxide,801961.8
+1002768,2014,Nitrous Oxide,0
+1002769,2010,Nitrous Oxide,0
+1002769,2014,Nitrous Oxide,0
+1002769,2016,Nitrous Oxide,0
+1002958,2014,Carbon Dioxide,289139.2
+1002958,2016,Biogenic Carbon dioxide,0
+1002977,2013,Biogenic Carbon dioxide,0
+1002977,2016,Nitrous Oxide,0
+1003204,2011,Biogenic Carbon dioxide,0
+1003204,2011,Methane,0
+1003204,2012,Nitrous Oxide,0
+1003204,2015,Methane,0
+1003093,2010,Nitrous Oxide,0
+1003093,2012,Carbon Dioxide,39951.5
+1003052,2014,Methane,0
+1003268,2012,Nitrous Oxide,0
+1003268,2015,Biogenic Carbon dioxide,0
+1003380,2010,Nitrous Oxide,.029
+1003380,2011,Carbon Dioxide,23734.7
+1003380,2012,Carbon Dioxide,8906.9
+1003380,2013,Carbon Dioxide,7705.9
+1003380,2014,Nitrous Oxide,.005
+1003474,2015,Carbon Dioxide,104025.4
+1003403,2010,Biogenic Carbon dioxide,0
+1003403,2010,Carbon Dioxide,446376
+1003457,2010,Biogenic Carbon dioxide,0
+1003403,2013,Biogenic Carbon dioxide,0
+1003403,2013,Methane,0
+1003457,2013,Biogenic Carbon dioxide,0
+1003457,2014,Methane,0
+1003457,2016,Biogenic Carbon dioxide,0
+1003403,2016,Methane,0
+1003403,2016,Carbon Dioxide,441274
+1003580,2011,Biogenic Carbon dioxide,0
+1003580,2011,Methane,0
+1003580,2013,Carbon Dioxide,25701
+1003580,2014,Nitrous Oxide,0
+1000124,2015,Carbon Dioxide,36245.5
+1000274,2015,Methane,.74
+1000418,2015,Biogenic Carbon dioxide,0
+1005976,2015,Biogenic Carbon dioxide,0
+1001834,2011,Nitrous Oxide,.422
+1001834,2011,Carbon Dioxide,1506041.6
+1006041,2016,Biogenic Carbon dioxide,0
+1002903,2015,Biogenic Carbon dioxide,0
+1000330,2014,Biogenic Carbon dioxide,0
+1000156,2011,Methane,.21
+1001563,2015,Biogenic Carbon dioxide,0
+1001563,2015,Methane,.24
+1005536,2015,Biogenic Carbon dioxide,0
+1005536,2015,Carbon Dioxide,6232.9
+1005598,2015,Methane,0
+1005615,2015,Biogenic Carbon dioxide,0
+1005976,2011,Nitrous Oxide,0
+1000418,2013,Biogenic Carbon dioxide,0
+1000418,2013,Nitrous Oxide,.799
+1000124,2013,Nitrous Oxide,0
+1000159,2013,Nitrous Oxide,.021
+1000274,2016,Nitrous Oxide,.593
+1001621,2016,Biogenic Carbon dioxide,0
+1002903,2016,Biogenic Carbon dioxide,0
+1001834,2010,Methane,.07
+1000124,2010,Nitrous Oxide,0
+1003981,2013,Carbon Dioxide,54985.1
+1003965,2016,Biogenic Carbon dioxide,0
+1004038,2011,Nitrous Oxide,0
+1004038,2012,Carbon Dioxide,40823.6
+1004038,2013,Biogenic Carbon dioxide,0
+1004038,2013,Methane,0
+1004038,2016,Carbon Dioxide,49573.8
+1004259,2010,Methane,0
+1004259,2014,Methane,0
+1004616,2012,Carbon Dioxide,397252
+1004616,2013,Methane,0
+1004509,2010,Methane,0
+1004509,2010,Carbon Dioxide,719418.9
+1004616,2015,Carbon Dioxide,481094.2
+1004434,2011,Carbon Dioxide,21213
+1004434,2013,Nitrous Oxide,0
+1004434,2014,Nitrous Oxide,0
+1004215,2016,Nitrous Oxide,0
+1004458,2011,Biogenic Carbon dioxide,0
+1004458,2011,Methane,0
+1004509,2016,Biogenic Carbon dioxide,0
+1004493,2011,Carbon Dioxide,29144
+1004493,2013,Biogenic Carbon dioxide,0
+1004493,2013,Methane,0
+1004493,2013,Carbon Dioxide,24301.8
+1004458,2016,Nitrous Oxide,0
+1004493,2016,Methane,0
+1004493,2016,Nitrous Oxide,0
+1004511,2012,Nitrous Oxide,0
+1004511,2014,Methane,.1
+1004511,2015,Carbon Dioxide,12390.8
+1004511,2016,Nitrous Oxide,.018
+1005294,2011,Biogenic Carbon dioxide,0
+1005294,2011,Carbon Dioxide,297421.7
+1005144,2011,Carbon Dioxide,462685
+1005116,2011,Methane,0
+1005144,2013,Methane,0
+1005144,2013,Carbon Dioxide,632943.5
+1005144,2014,Biogenic Carbon dioxide,0
+1005144,2014,Carbon Dioxide,623385.5
+1005144,2016,Carbon Dioxide,0
+1005025,2014,Methane,.5
+1005116,2013,Nitrous Oxide,0
+1005116,2013,Carbon Dioxide,229589.3
+1005190,2013,Biogenic Carbon dioxide,0
+1005190,2013,Carbon Dioxide,56941
+1005283,2011,Methane,0
+1005283,2011,Nitrous Oxide,0
+1005003,2012,Biogenic Carbon dioxide,0
+1005003,2012,Methane,0
+1005003,2012,Nitrous Oxide,0
+1005003,2012,Carbon Dioxide,15004
+1005283,2013,Biogenic Carbon dioxide,0
+1005283,2015,Biogenic Carbon dioxide,0
+1005003,2014,Biogenic Carbon dioxide,0
+1005163,2012,Methane,0
+1005163,2012,Nitrous Oxide,0
+1005163,2012,Carbon Dioxide,180731.1
+1005163,2014,Methane,0
+1005163,2015,Methane,0
+1005294,2010,Methane,0
+1004151,2013,Biogenic Carbon dioxide,0
+1004151,2016,Methane,.29
+1004152,2010,Methane,0
+1004152,2011,Carbon Dioxide,29603.8
+1004152,2012,Biogenic Carbon dioxide,0
+1004152,2014,Carbon Dioxide,26200.6
+1004152,2016,Nitrous Oxide,0
+1004411,2015,Nitrous Oxide,0
+1004411,2016,Methane,0
+1005021,2010,Carbon Dioxide,26737
+1005303,2010,Methane,0
+1005021,2012,Biogenic Carbon dioxide,0
+1005021,2012,Methane,0
+1005021,2013,Methane,0
+1004729,2010,Carbon Dioxide,31670
+1005344,2013,Methane,0
+1005344,2016,Nitrous Oxide,0
+1005346,2012,Methane,0
+1005346,2012,Carbon Dioxide,52440.9
+1005346,2013,Biogenic Carbon dioxide,0
+1005294,2015,Biogenic Carbon dioxide,0
+1005294,2016,Biogenic Carbon dioxide,0
+1005294,2016,Carbon Dioxide,81406.6
+1005346,2016,Biogenic Carbon dioxide,0
+1005298,2012,Biogenic Carbon dioxide,0
+1005298,2012,Nitrous Oxide,0
+1005298,2012,Carbon Dioxide,19675
+1005298,2015,Biogenic Carbon dioxide,0
+1005298,2016,Biogenic Carbon dioxide,0
+1005298,2016,Carbon Dioxide,18654.5
+1005602,2013,Carbon Dioxide,102176
+1005752,2010,Nitrous Oxide,0
+1005752,2012,Biogenic Carbon dioxide,0
+1005752,2012,Carbon Dioxide,59192
+1005515,2015,Methane,0
+1005598,2011,Methane,0
+1005598,2011,Carbon Dioxide,578556.9
+1005598,2012,Biogenic Carbon dioxide,0
+1005423,2014,Biogenic Carbon dioxide,0
+1005423,2014,Nitrous Oxide,0
+1005423,2016,Methane,0
+1006159,2012,Carbon Dioxide,484425.9
+1006159,2015,Nitrous Oxide,0
+1005800,2011,Carbon Dioxide,15538.3
+1005800,2012,Biogenic Carbon dioxide,0
+1005801,2013,Nitrous Oxide,0
+1005801,2013,Carbon Dioxide,29239
+1006144,2012,Methane,.09
+1005976,2013,Carbon Dioxide,212107.7
+1005976,2014,Methane,0
+1006144,2016,Methane,.08
+1005832,2010,Biogenic Carbon dioxide,0
+1005832,2010,Carbon Dioxide,83054.3
+1005832,2011,Biogenic Carbon dioxide,0
+1005752,2013,Biogenic Carbon dioxide,0
+1005752,2014,Carbon Dioxide,60725.5
+1005752,2015,Nitrous Oxide,0
+1005755,2010,Biogenic Carbon dioxide,0
+1005755,2010,Methane,0
+1005700,2012,Methane,0
+1005700,2012,Nitrous Oxide,0
+1005755,2014,Nitrous Oxide,0
+1005700,2013,Biogenic Carbon dioxide,0
+1005700,2015,Biogenic Carbon dioxide,0
+1005755,2015,Nitrous Oxide,0
+1005755,2016,Biogenic Carbon dioxide,0
+1005700,2016,Nitrous Oxide,0
+1006269,2011,Biogenic Carbon dioxide,0
+1006269,2012,Carbon Dioxide,50149.7
+1006269,2013,Carbon Dioxide,47991.2
+1006341,2010,Nitrous Oxide,.011
+1006341,2011,Nitrous Oxide,.012
+1006341,2016,Nitrous Oxide,.014
+1006325,2010,Nitrous Oxide,0
+1006325,2010,Carbon Dioxide,88307
+1006325,2015,Methane,0
+1006325,2015,Carbon Dioxide,80888.7
+1006325,2016,Biogenic Carbon dioxide,0
+1006875,2014,Biogenic Carbon dioxide,0
+1006875,2014,Nitrous Oxide,.001
+1006875,2015,Nitrous Oxide,.005
+1006708,2010,Carbon Dioxide,16363
+1006530,2012,Nitrous Oxide,0
+1006972,2013,Nitrous Oxide,0
+1006972,2014,Nitrous Oxide,0
+1006972,2015,Methane,0
+1006530,2013,Biogenic Carbon dioxide,0
+1007287,2010,Methane,0
+1007287,2015,Methane,0
+1006585,2010,Nitrous Oxide,0
+1006901,2010,Carbon Dioxide,53687
+1006901,2011,Nitrous Oxide,0
+1006585,2012,Nitrous Oxide,0
+1006901,2012,Nitrous Oxide,0
+1006901,2012,Carbon Dioxide,49336
+1006585,2013,Nitrous Oxide,0
+1006901,2016,Nitrous Oxide,0
+1007348,2015,Carbon Dioxide,30854.7
+1007348,2016,Nitrous Oxide,0
+1007392,2011,Biogenic Carbon dioxide,0
+1007348,2010,Nitrous Oxide,0
+1007392,2015,Biogenic Carbon dioxide,0
+1007392,2016,Nitrous Oxide,.084
+1007642,2011,Carbon Dioxide,329367
+1007642,2013,Carbon Dioxide,318120
+1007642,2014,Biogenic Carbon dioxide,0
+1007642,2014,Carbon Dioxide,258002
+1007921,2012,Carbon Dioxide,540312.8
+1007921,2013,Biogenic Carbon dioxide,0
+1007921,2014,Methane,0
+1007921,2015,Methane,0
+1007866,2012,Methane,0
+1007866,2013,Nitrous Oxide,0
+1007620,2010,Nitrous Oxide,0
+1007620,2016,Methane,0
+1007620,2016,Nitrous Oxide,0
+1003507,2010,Biogenic Carbon dioxide,0
+1003507,2010,Methane,0
+1003577,2010,Carbon Dioxide,6824.8
+1003577,2013,Nitrous Oxide,0
+1003688,2013,Methane,0
+1003688,2014,Carbon Dioxide,61599.1
+1003668,2011,Nitrous Oxide,0
+1003668,2014,Carbon Dioxide,86102.3
+1003669,2010,Carbon Dioxide,314333
+1003669,2012,Biogenic Carbon dioxide,0
+1003669,2013,Carbon Dioxide,220921
+1003799,2012,Nitrous Oxide,0
+1003799,2014,Biogenic Carbon dioxide,0
+1003799,2014,Carbon Dioxide,124965
+1003799,2016,Nitrous Oxide,0
+1003860,2012,Biogenic Carbon dioxide,0
+1003860,2012,Carbon Dioxide,191876
+1003902,2010,Methane,0
+1003860,2010,Nitrous Oxide,0
+1003962,2016,Carbon Dioxide,3738599.9
+1003965,2013,Methane,0
+1003965,2014,Nitrous Oxide,0
+1007695,2010,Nitrous Oxide,.022
+1007695,2011,Nitrous Oxide,.028
+1007946,2012,Biogenic Carbon dioxide,0
+1007946,2013,Nitrous Oxide,.012
+1007695,2013,Methane,.33
+1007695,2014,Carbon Dioxide,93229.6
+1007946,2015,Carbon Dioxide,92099.5
+1007695,2015,Biogenic Carbon dioxide,0
+1007946,2016,Biogenic Carbon dioxide,0
+1007946,2016,Methane,.12
+1007577,2010,Nitrous Oxide,0
+1007577,2011,Carbon Dioxide,56395.4
+1007577,2013,Methane,0
+1007577,2014,Biogenic Carbon dioxide,0
+1007577,2014,Nitrous Oxide,0
+1011242,2013,Methane,0
+1012352,2016,Carbon Dioxide,1061.5
+1011726,2012,Biogenic Carbon dioxide,0
+1011726,2012,Nitrous Oxide,0
+1010925,2011,Methane,0
+1011726,2013,Methane,0
+1011726,2015,Nitrous Oxide,0
+1010925,2013,Carbon Dioxide,4380.6
+1011726,2016,Nitrous Oxide,0
+1011726,2016,Carbon Dioxide,586.9
+1010763,2012,Methane,0
+1010763,2012,Carbon Dioxide,788.6
+1010763,2015,Carbon Dioxide,83408.9
+1000177,2010,Nitrous Oxide,.019
+1000233,2010,Nitrous Oxide,.034
+1006972,2016,Nitrous Oxide,0
+1006972,2016,Carbon Dioxide,7587.2
+1001563,2016,Nitrous Oxide,.039
+1001834,2014,Nitrous Oxide,.389
+1005777,2013,Carbon Dioxide,86871.8
+1004811,2013,Methane,0
+1005536,2013,Carbon Dioxide,8438.5
+1003962,2015,Carbon Dioxide,3169604.1
+1007177,2015,Carbon Dioxide,615534.8
+1005615,2013,Nitrous Oxide,.087
+1002147,2014,Biogenic Carbon dioxide,0
+1000588,2014,Biogenic Carbon dioxide,0
+1001563,2013,Biogenic Carbon dioxide,0
+1007620,2013,Carbon Dioxide,891
+1004458,2010,Methane,0
+1000274,2013,Carbon Dioxide,1332519.9
+1005777,2012,Carbon Dioxide,72074.2
+1003577,2014,Biogenic Carbon dioxide,0
+1003577,2014,Nitrous Oxide,0
+1001563,2012,Nitrous Oxide,.085
+1001563,2010,Methane,236.84
+1006436,2010,Carbon Dioxide,40050
+1005423,2010,Methane,0
+1005423,2010,Nitrous Oxide,0
+1005598,2010,Nitrous Oxide,0
+1005614,2010,Methane,.16
+1005615,2014,Carbon Dioxide,275088.3
+1004453,2014,Biogenic Carbon dioxide,0
+1004453,2014,Methane,0
+1004453,2014,Nitrous Oxide,0
+1005614,2011,Nitrous Oxide,.011
+1000418,2011,Methane,.5
+1000233,2011,Biogenic Carbon dioxide,0
+1005190,2015,Biogenic Carbon dioxide,0
+1000124,2016,Biogenic Carbon dioxide,0
+1005536,2016,Methane,0
+1007177,2016,Methane,.04
+1005800,2015,Nitrous Oxide,0
+1003474,2016,Methane,0
+1005003,2015,Nitrous Oxide,0
+1003052,2010,Biogenic Carbon dioxide,0
+1003052,2010,Methane,0
+1003052,2010,Nitrous Oxide,0
+1000588,2015,Biogenic Carbon dioxide,0
+1001699,2014,Carbon Dioxide,18557.9
+1004259,2013,Methane,0
+1004036,2013,Nitrous Oxide,0
+1004411,2013,Biogenic Carbon dioxide,0
+1003474,2010,Biogenic Carbon dioxide,0
+1006041,2013,Methane,.34
+1004036,2010,Biogenic Carbon dioxide,0
+1003962,2011,Carbon Dioxide,3095469.9
+1004811,2011,Nitrous Oxide,0
+1000159,2012,Nitrous Oxide,.012
+1000159,2012,Carbon Dioxide,348247.7
+1004151,2010,Biogenic Carbon dioxide,0
+1004151,2010,Methane,.29
+1005536,2014,Carbon Dioxide,8482
+1005276,2014,Biogenic Carbon dioxide,0
+1001834,2012,Nitrous Oxide,.542
+1000399,2012,Biogenic Carbon dioxide,0
+1003093,2011,Biogenic Carbon dioxide,0
+1003268,2011,Nitrous Oxide,0
+1003268,2011,Carbon Dioxide,28801
+1004411,2011,Carbon Dioxide,80787.5
+1004729,2012,Nitrous Oxide,0
+1006436,2011,Biogenic Carbon dioxide,0
+1006436,2011,Nitrous Oxide,0
+1006436,2011,Carbon Dioxide,41166
+1006159,2011,Carbon Dioxide,90157.9
+1005298,2011,Nitrous Oxide,0
+1005190,2012,Methane,0
+1005801,2012,Methane,0
+1005801,2012,Carbon Dioxide,17211.6
+1011726,2011,Carbon Dioxide,1181.5
+1000029,2012,Nitrous Oxide,0
+1000029,2013,Carbon Dioxide,94029
+1000235,2015,Biogenic Carbon dioxide,0
+1000235,2015,Carbon Dioxide,18069.2
+1000235,2016,Biogenic Carbon dioxide,0
+1000394,2011,Methane,0
+1000394,2011,Nitrous Oxide,0
+1000394,2012,Biogenic Carbon dioxide,0
+1000399,2010,Carbon Dioxide,781.1
+1000714,2011,Methane,0
+1000714,2012,Biogenic Carbon dioxide,0
+1000714,2012,Methane,0
+1000714,2013,Biogenic Carbon dioxide,0
+1000714,2014,Carbon Dioxide,53739
+1000714,2015,Biogenic Carbon dioxide,0
+1000714,2015,Nitrous Oxide,0
+1000714,2016,Biogenic Carbon dioxide,0
+1000802,2013,Biogenic Carbon dioxide,0
+1000802,2010,Biogenic Carbon dioxide,0
+1000802,2010,Carbon Dioxide,13270.9
+1000802,2012,Carbon Dioxide,16961.3
+1000802,2015,Methane,.28
+1000802,2015,Carbon Dioxide,26437.4
+1000802,2016,Nitrous Oxide,.006
+1001103,2013,Carbon Dioxide,20125
+1001618,2015,Biogenic Carbon dioxide,0
+1001618,2015,Nitrous Oxide,0
+1001618,2016,Biogenic Carbon dioxide,0
+1001618,2016,Methane,0
+1001621,2013,Biogenic Carbon dioxide,0
+1001699,2013,Biogenic Carbon dioxide,0
+1001669,2010,Carbon Dioxide,24469
+1001669,2011,Biogenic Carbon dioxide,0
+1001669,2013,Biogenic Carbon dioxide,0
+1001669,2013,Nitrous Oxide,0
+1001669,2013,Carbon Dioxide,29967
+1001669,2016,Methane,0
+1001673,2010,Biogenic Carbon dioxide,0
+1001673,2010,Methane,0
+1001673,2010,Carbon Dioxide,3526
+1001673,2012,Methane,0
+1001673,2013,Biogenic Carbon dioxide,0
+1001958,2010,Biogenic Carbon dioxide,0
+1001958,2016,Carbon Dioxide,68.6
+1002147,2015,Biogenic Carbon dioxide,0
+1002147,2016,Nitrous Oxide,0
+1002266,2010,Biogenic Carbon dioxide,0
+1002266,2012,Methane,.57
+1002266,2012,Nitrous Oxide,.057
+1002266,2012,Carbon Dioxide,435496.8
+1002266,2013,Carbon Dioxide,392512.4
+1002266,2014,Methane,.6
+1002266,2015,Biogenic Carbon dioxide,0
+1002266,2016,Biogenic Carbon dioxide,0
+1002216,2011,Methane,0
+1002216,2011,Nitrous Oxide,0
+1002216,2014,Biogenic Carbon dioxide,0
+1002216,2014,Methane,0
+1002714,2015,Biogenic Carbon dioxide,0
+1002621,2013,Carbon Dioxide,78960.6
+1002621,2014,Nitrous Oxide,0
+1002777,2011,Biogenic Carbon dioxide,0
+1002768,2010,Methane,0
+1002777,2015,Carbon Dioxide,854759
+1002768,2012,Methane,0
+1002768,2012,Carbon Dioxide,91724.6
+1002768,2013,Biogenic Carbon dioxide,0
+1002768,2015,Methane,0
+1002769,2012,Methane,0
+1002769,2012,Nitrous Oxide,0
+1002769,2015,Nitrous Oxide,0
+1002769,2016,Methane,0
+1002769,2016,Carbon Dioxide,298.9
+1002903,2010,Carbon Dioxide,88488
+1002903,2011,Nitrous Oxide,0
+1002903,2014,Methane,0
+1002958,2015,Methane,0
+1002977,2010,Biogenic Carbon dioxide,0
+1002977,2012,Carbon Dioxide,45633.6
+1002977,2013,Carbon Dioxide,51689.8
+1003204,2013,Methane,0
+1003204,2014,Nitrous Oxide,0
+1003093,2010,Methane,0
+1003093,2012,Nitrous Oxide,.169
+1003093,2013,Biogenic Carbon dioxide,0
+1003093,2014,Nitrous Oxide,.061
+1003052,2012,Methane,0
+1003052,2014,Nitrous Oxide,0
+1003052,2015,Biogenic Carbon dioxide,0
+1003052,2015,Methane,0
+1003268,2015,Nitrous Oxide,0
+1003268,2016,Carbon Dioxide,17114.7
+1003380,2014,Methane,.02
+1003380,2015,Biogenic Carbon dioxide,0
+1003380,2015,Nitrous Oxide,.013
+1003380,2016,Biogenic Carbon dioxide,0
+1003380,2016,Nitrous Oxide,.024
+1003474,2011,Carbon Dioxide,70888
+1003474,2014,Carbon Dioxide,91644.1
+1003403,2010,Methane,0
+1003457,2011,Carbon Dioxide,159108.4
+1003457,2016,Methane,0
+1003577,2015,Methane,0
+1003580,2013,Nitrous Oxide,0
+1000418,2015,Methane,.37
+1001621,2015,Methane,0
+1001621,2015,Carbon Dioxide,1018854.3
+1000588,2012,Biogenic Carbon dioxide,0
+1005976,2015,Carbon Dioxide,272054.7
+1001834,2011,Methane,.09
+1004259,2015,Biogenic Carbon dioxide,0
+1000156,2011,Biogenic Carbon dioxide,0
+1005598,2015,Biogenic Carbon dioxide,0
+1005976,2011,Methane,0
+1011242,2015,Biogenic Carbon dioxide,0
+1000233,2013,Carbon Dioxide,442313.4
+1000418,2013,Methane,1.49
+1000418,2013,Carbon Dioxide,2840950.4
+1000156,2013,Nitrous Oxide,.144
+1001834,2013,Methane,.11
+1001618,2013,Biogenic Carbon dioxide,0
+1001618,2013,Nitrous Oxide,0
+1000274,2016,Methane,.34
+1001834,2016,Methane,.07
+1001621,2016,Carbon Dioxide,1127117.2
+1000029,2010,Carbon Dioxide,56615.9
+1003093,2016,Carbon Dioxide,63555.2
+1000553,2010,Biogenic Carbon dioxide,0
+1000553,2010,Methane,.01
+1001618,2010,Carbon Dioxide,233336.5
+1003981,2010,Methane,0
+1003965,2016,Methane,0
+1003981,2014,Nitrous Oxide,0
+1004038,2010,Nitrous Oxide,0
+1004038,2011,Carbon Dioxide,27458.6
+1004038,2015,Nitrous Oxide,0
+1004038,2016,Nitrous Oxide,0
+1004259,2010,Biogenic Carbon dioxide,0
+1004259,2011,Nitrous Oxide,0
+1004215,2010,Biogenic Carbon dioxide,0
+1004215,2010,Carbon Dioxide,132961
+1004259,2012,Carbon Dioxide,135002
+1004259,2016,Nitrous Oxide,0
+1004616,2010,Biogenic Carbon dioxide,0
+1004616,2011,Methane,0
+1004215,2011,Nitrous Oxide,0
+1004616,2012,Methane,0
+1004616,2012,Nitrous Oxide,0
+1004616,2013,Carbon Dioxide,468812
+1004509,2010,Biogenic Carbon dioxide,0
+1004616,2016,Carbon Dioxide,402627.9
+1004509,2011,Nitrous Oxide,0
+1004215,2014,Carbon Dioxide,150899.1
+1004434,2011,Biogenic Carbon dioxide,0
+1004509,2012,Biogenic Carbon dioxide,0
+1004434,2015,Nitrous Oxide,0
+1004434,2016,Biogenic Carbon dioxide,0
+1004509,2016,Nitrous Oxide,0
+1004458,2013,Biogenic Carbon dioxide,0
+1004493,2011,Methane,0
+1004458,2015,Biogenic Carbon dioxide,0
+1004493,2012,Carbon Dioxide,31543.9
+1004511,2010,Carbon Dioxide,23037
+1004511,2011,Biogenic Carbon dioxide,0
+1004458,2016,Carbon Dioxide,899198.9
+1004493,2015,Biogenic Carbon dioxide,0
+1004511,2013,Biogenic Carbon dioxide,0
+1004511,2015,Biogenic Carbon dioxide,0
+1005294,2011,Methane,0
+1005116,2010,Nitrous Oxide,0
+1005144,2010,Methane,0
+1005144,2011,Methane,0
+1005144,2011,Nitrous Oxide,0
+1005294,2012,Biogenic Carbon dioxide,0
+1005116,2011,Carbon Dioxide,208607
+1005144,2013,Biogenic Carbon dioxide,0
+1005116,2012,Biogenic Carbon dioxide,0
+1005116,2012,Methane,0
+1005025,2015,Biogenic Carbon dioxide,0
+1005190,2010,Nitrous Oxide,0
+1005190,2014,Nitrous Oxide,0
+1005283,2010,Methane,0
+1005283,2011,Biogenic Carbon dioxide,0
+1005283,2012,Methane,0
+1005003,2013,Biogenic Carbon dioxide,0
+1005003,2013,Carbon Dioxide,23406
+1005283,2014,Carbon Dioxide,117035.1
+1005163,2016,Nitrous Oxide,0
+1004151,2015,Nitrous Oxide,.026
+1004152,2010,Biogenic Carbon dioxide,0
+1004152,2013,Biogenic Carbon dioxide,0
+1004411,2012,Carbon Dioxide,73309.2
+1004152,2016,Biogenic Carbon dioxide,0
+1004411,2014,Nitrous Oxide,0
+1004411,2015,Biogenic Carbon dioxide,0
+1005303,2012,Methane,0
+1005276,2011,Methane,0
+1004729,2011,Carbon Dioxide,17595
+1004729,2015,Biogenic Carbon dioxide,0
+1004729,2016,Biogenic Carbon dioxide,0
+1005294,2013,Biogenic Carbon dioxide,0
+1005294,2013,Nitrous Oxide,0
+1005346,2011,Methane,0
+1005294,2014,Methane,0
+1005346,2012,Nitrous Oxide,0
+1005346,2013,Methane,0
+1005294,2015,Carbon Dioxide,170658.1
+1005298,2010,Methane,0
+1005298,2013,Nitrous Oxide,0
+1005298,2015,Nitrous Oxide,0
+1005602,2012,Methane,0
+1005584,2012,Methane,0
+1005602,2013,Methane,0
+1005584,2013,Biogenic Carbon dioxide,0
+1005584,2015,Methane,0
+1005584,2016,Nitrous Oxide,0
+1005515,2013,Biogenic Carbon dioxide,0
+1005515,2013,Nitrous Oxide,0
+1005515,2014,Nitrous Oxide,0
+1005598,2011,Biogenic Carbon dioxide,0
+1005515,2016,Nitrous Oxide,0
+1005515,2016,Carbon Dioxide,26495.2
+1005598,2016,Methane,0
+1005423,2012,Nitrous Oxide,0
+1005423,2016,Biogenic Carbon dioxide,0
+1005602,2010,Nitrous Oxide,0
+1006159,2012,Biogenic Carbon dioxide,0
+1006159,2012,Nitrous Oxide,0
+1006159,2014,Biogenic Carbon dioxide,0
+1005800,2016,Carbon Dioxide,20883.4
+1005801,2014,Methane,0
+1006144,2010,Biogenic Carbon dioxide,0
+1006144,2010,Carbon Dioxide,29290
+1005777,2010,Carbon Dioxide,67130.6
+1006144,2016,Nitrous Oxide,.01
+1005832,2010,Methane,.15
+1005832,2012,Methane,.19
+1005752,2014,Biogenic Carbon dioxide,0
+1005755,2012,Biogenic Carbon dioxide,0
+1005700,2010,Biogenic Carbon dioxide,0
+1005700,2011,Methane,0
+1005700,2012,Carbon Dioxide,184614
+1005755,2013,Nitrous Oxide,0
+1005755,2014,Carbon Dioxide,33333.3
+1006269,2013,Biogenic Carbon dioxide,0
+1006269,2015,Methane,0
+1006269,2015,Nitrous Oxide,0
+1006341,2010,Biogenic Carbon dioxide,0
+1006341,2014,Biogenic Carbon dioxide,0
+1006325,2012,Methane,0
+1006325,2012,Carbon Dioxide,94018.8
+1006325,2013,Carbon Dioxide,99562
+1006436,2012,Carbon Dioxide,36509
+1006325,2014,Carbon Dioxide,97335.8
+1006436,2013,Carbon Dioxide,209
+1006325,2016,Nitrous Oxide,0
+1006875,2012,Methane,0
+1006875,2013,Carbon Dioxide,2057
+1006875,2015,Carbon Dioxide,3131.5
+1006530,2010,Nitrous Oxide,0
+1006708,2015,Carbon Dioxide,25010.3
+1006708,2016,Carbon Dioxide,21101.1
+1006972,2013,Biogenic Carbon dioxide,0
+1006972,2015,Carbon Dioxide,7056.6
+1006875,2011,Carbon Dioxide,2695
+1006530,2015,Biogenic Carbon dioxide,0
+1007287,2012,Methane,0
+1007287,2014,Nitrous Oxide,0
+1006585,2011,Biogenic Carbon dioxide,0
+1006901,2013,Biogenic Carbon dioxide,0
+1006585,2013,Carbon Dioxide,5835.7
+1006901,2015,Nitrous Oxide,0
+1006901,2016,Biogenic Carbon dioxide,0
+1006585,2015,Nitrous Oxide,.006
+1006906,2011,Nitrous Oxide,0
+1006906,2013,Carbon Dioxide,64438
+1006906,2014,Methane,0
+1006906,2015,Methane,0
+1006906,2016,Biogenic Carbon dioxide,0
+1006906,2016,Carbon Dioxide,49215.3
+1007348,2016,Biogenic Carbon dioxide,0
+1007392,2013,Methane,.5
+1007392,2013,Nitrous Oxide,.1
+1007392,2013,Carbon Dioxide,57649
+1007392,2014,Methane,0
+1007348,2010,Methane,0
+1007348,2011,Biogenic Carbon dioxide,0
+1007642,2010,Biogenic Carbon dioxide,0
+1007642,2010,Nitrous Oxide,.06
+1007642,2012,Methane,.41
+1007642,2015,Biogenic Carbon dioxide,0
+1007921,2012,Biogenic Carbon dioxide,0
+1007921,2012,Methane,0
+1007921,2013,Methane,0
+1007921,2014,Biogenic Carbon dioxide,0
+1007866,2010,Carbon Dioxide,58088
+1007866,2011,Methane,0
+1007866,2012,Biogenic Carbon dioxide,0
+1007866,2015,Biogenic Carbon dioxide,0
+1007866,2015,Nitrous Oxide,0
+1008735,2013,Methane,0
+1008735,2014,Nitrous Oxide,0
+1007946,2010,Biogenic Carbon dioxide,0
+1007946,2010,Methane,.12
+1003507,2013,Carbon Dioxide,19749
+1003507,2015,Biogenic Carbon dioxide,0
+1003507,2015,Methane,0
+1003507,2016,Biogenic Carbon dioxide,0
+1003577,2010,Nitrous Oxide,0
+1003577,2013,Biogenic Carbon dioxide,0
+1003688,2011,Nitrous Oxide,0
+1003688,2012,Biogenic Carbon dioxide,0
+1003688,2013,Carbon Dioxide,45828
+1003688,2014,Methane,0
+1003668,2012,Biogenic Carbon dioxide,0
+1003668,2015,Carbon Dioxide,50943.1
+1003669,2010,Biogenic Carbon dioxide,0
+1003669,2011,Methane,0
+1003669,2011,Carbon Dioxide,319978
+1003669,2012,Nitrous Oxide,0
+1003669,2013,Methane,0
+1003669,2014,Biogenic Carbon dioxide,0
+1003669,2016,Biogenic Carbon dioxide,0
+1003799,2011,Nitrous Oxide,0
+1003799,2012,Biogenic Carbon dioxide,0
+1003799,2012,Carbon Dioxide,162172
+1003799,2013,Nitrous Oxide,0
+1003799,2015,Methane,0
+1003860,2011,Biogenic Carbon dioxide,0
+1003860,2011,Methane,0
+1003860,2014,Biogenic Carbon dioxide,0
+1003860,2014,Nitrous Oxide,0
+1003860,2014,Carbon Dioxide,115221.5
+1003860,2016,Biogenic Carbon dioxide,0
+1003860,2016,Methane,0
+1003902,2010,Biogenic Carbon dioxide,0
+1003902,2010,Nitrous Oxide,0
+1003860,2010,Carbon Dioxide,181025
+1003965,2014,Carbon Dioxide,22139
+1007946,2011,Methane,.12
+1007695,2011,Carbon Dioxide,134960.1
+1007695,2012,Nitrous Oxide,.033
+1007695,2014,Nitrous Oxide,.025
+1007946,2014,Carbon Dioxide,110114.3
+1007577,2011,Methane,0
+1007577,2011,Nitrous Oxide,0
+1007577,2012,Methane,0
+1007577,2016,Nitrous Oxide,0
+1011242,2013,Nitrous Oxide,0
+1011242,2013,Carbon Dioxide,8679.1
+1010766,2015,Carbon Dioxide,89541
+1010766,2016,Carbon Dioxide,102407.9
+1011726,2010,Nitrous Oxide,0
+1010925,2010,Nitrous Oxide,0
+1010925,2011,Biogenic Carbon dioxide,0
+1011726,2014,Biogenic Carbon dioxide,0
+1010925,2014,Biogenic Carbon dioxide,0
+1010925,2014,Methane,0
+1011726,2016,Biogenic Carbon dioxide,0
+1010763,2014,Methane,0
+1010763,2014,Carbon Dioxide,154118
+1010763,2016,Carbon Dioxide,72234.9
+1010766,2014,Methane,0
+1002216,2010,Methane,0
+1003902,2013,Carbon Dioxide,71638
+1004811,2013,Biogenic Carbon dioxide,0
+1004036,2011,Nitrous Oxide,0
+1003962,2012,Nitrous Oxide,.83
+1003962,2012,Carbon Dioxide,3193042.4
+1005777,2011,Methane,0
+1000233,2012,Carbon Dioxide,422253.2
+1003962,2013,Biogenic Carbon dioxide,0
+1003962,2013,Nitrous Oxide,.67
+1007177,2015,Biogenic Carbon dioxide,0
+1000156,2014,Nitrous Oxide,.167
+1000124,2014,Biogenic Carbon dioxide,0
+1007620,2013,Biogenic Carbon dioxide,0
+1007620,2013,Methane,0
+1003799,2010,Methane,0
+1004036,2012,Methane,0
+1004458,2010,Biogenic Carbon dioxide,0
+1004458,2010,Carbon Dioxide,1069414.9
+1000274,2013,Biogenic Carbon dioxide,0
+1005777,2012,Biogenic Carbon dioxide,0
+1003902,2014,Biogenic Carbon dioxide,0
+1003577,2014,Carbon Dioxide,6683.3
+1004811,2010,Nitrous Oxide,0
+1004811,2010,Carbon Dioxide,59384
+1005615,2010,Nitrous Oxide,.202
+1005423,2010,Biogenic Carbon dioxide,0
+1005598,2010,Methane,0
+1005614,2010,Carbon Dioxide,17206.9
+1004811,2014,Methane,0
+1004811,2014,Nitrous Oxide,0
+1000418,2011,Carbon Dioxide,2550604.9
+1002977,2015,Carbon Dioxide,46866.6
+1006041,2014,Carbon Dioxide,1063079.2
+1001621,2014,Carbon Dioxide,1415322.7
+1001621,2012,Nitrous Oxide,0
+1000274,2011,Nitrous Oxide,.643
+1000233,2011,Nitrous Oxide,.045
+1000233,2011,Carbon Dioxide,463395.4
+1005190,2015,Methane,0
+1005003,2016,Methane,0
+1006341,2015,Methane,.15
+1006341,2015,Carbon Dioxide,68759.6
+1002621,2016,Biogenic Carbon dioxide,0
+1002621,2016,Nitrous Oxide,0
+1000177,2011,Nitrous Oxide,.042
+1004036,2015,Carbon Dioxide,4358.2
+1000124,2016,Nitrous Oxide,0
+1003902,2016,Carbon Dioxide,74323
+1004493,2014,Methane,0
+1004493,2014,Carbon Dioxide,29018.1
+1001563,2011,Carbon Dioxide,50503.5
+1004036,2016,Methane,0
+1002621,2010,Methane,0
+1002621,2010,Nitrous Oxide,0
+1001699,2014,Methane,0
+1004036,2013,Biogenic Carbon dioxide,0
+1001699,2015,Methane,0
+1000588,2016,Biogenic Carbon dioxide,0
+1000588,2016,Nitrous Oxide,.226
+1007177,2012,Carbon Dioxide,462215.6
+1003474,2010,Nitrous Oxide,0
+1000274,2012,Biogenic Carbon dioxide,0
+1000274,2012,Carbon Dioxide,1473697.9
+1000159,2012,Methane,0
+1004151,2010,Nitrous Oxide,.03
+1000330,2010,Nitrous Oxide,0
+1005536,2014,Biogenic Carbon dioxide,0
+1005536,2010,Nitrous Oxide,0
+1007620,2014,Carbon Dioxide,780.8
+1005276,2014,Methane,0
+1005276,2014,Nitrous Oxide,0
+1003902,2012,Biogenic Carbon dioxide,0
+1000124,2012,Methane,0
+1008735,2012,Biogenic Carbon dioxide,0
+1000330,2011,Nitrous Oxide,0
+1000399,2012,Methane,0
+1001103,2011,Methane,0
+1002769,2011,Nitrous Oxide,0
+1003577,2011,Biogenic Carbon dioxide,0
+1003981,2012,Carbon Dioxide,60604.7
+1004729,2012,Carbon Dioxide,53957
+1005190,2012,Biogenic Carbon dioxide,0
+1005801,2012,Biogenic Carbon dioxide,0
+1005801,2012,Nitrous Oxide,0
+1005423,2011,Biogenic Carbon dioxide,0
+1005423,2011,Methane,0
+1000029,2012,Methane,0
+1000029,2016,Biogenic Carbon dioxide,0
+1000235,2014,Methane,.02
+1000235,2016,Nitrous Oxide,0
+1000235,2010,Carbon Dioxide,12668
+1000235,2012,Biogenic Carbon dioxide,0
+1000235,2012,Nitrous Oxide,.01
+1000330,2013,Nitrous Oxide,0
+1000330,2013,Carbon Dioxide,38116.9
+1000330,2015,Nitrous Oxide,0
+1000394,2010,Biogenic Carbon dioxide,0
+1000394,2014,Carbon Dioxide,10210.2
+1000399,2011,Methane,0
+1000399,2013,Biogenic Carbon dioxide,0
+1000588,2010,Methane,.01
+1000714,2010,Biogenic Carbon dioxide,0
+1000714,2014,Biogenic Carbon dioxide,0
+1000802,2011,Methane,.09
+1000802,2013,Nitrous Oxide,.08
+1000802,2014,Carbon Dioxide,72526.1
+1000802,2015,Biogenic Carbon dioxide,0
+1001103,2010,Carbon Dioxide,39426
+1001103,2013,Nitrous Oxide,0
+1001103,2014,Carbon Dioxide,24848.7
+1001103,2015,Biogenic Carbon dioxide,0
+1001103,2015,Methane,0
+1001103,2016,Carbon Dioxide,19228.6
+1001618,2014,Nitrous Oxide,0
+1001618,2015,Methane,0
+1001699,2011,Methane,0
+1001699,2012,Nitrous Oxide,0
+1001669,2012,Nitrous Oxide,0
+1001669,2013,Methane,0
+1001673,2011,Carbon Dioxide,2154
+1001673,2012,Biogenic Carbon dioxide,0
+1001673,2012,Carbon Dioxide,4852
+1001958,2010,Methane,0
+1001958,2012,Biogenic Carbon dioxide,0
+1001958,2012,Carbon Dioxide,87.9
+1001958,2013,Methane,0
+1001958,2015,Biogenic Carbon dioxide,0
+1002147,2010,Methane,0
+1002147,2010,Carbon Dioxide,201616.2
+1002147,2011,Carbon Dioxide,188427.9
+1002147,2013,Methane,0
+1002266,2013,Nitrous Oxide,.059
+1002266,2015,Carbon Dioxide,479886.2
+1002216,2011,Biogenic Carbon dioxide,0
+1002216,2012,Biogenic Carbon dioxide,0
+1002216,2012,Methane,0
+1002216,2013,Biogenic Carbon dioxide,0
+1002714,2014,Methane,.07
+1002714,2015,Nitrous Oxide,0
+1002621,2013,Biogenic Carbon dioxide,0
+1002621,2013,Methane,0
+1002777,2010,Methane,0
+1002777,2011,Methane,0
+1002777,2013,Biogenic Carbon dioxide,0
+1002777,2013,Nitrous Oxide,0
+1002777,2015,Biogenic Carbon dioxide,0
+1002777,2016,Methane,0
+1002768,2014,Carbon Dioxide,88571.5
+1002768,2015,Biogenic Carbon dioxide,0
+1002768,2015,Nitrous Oxide,0
+1002769,2012,Carbon Dioxide,2109
+1002903,2011,Biogenic Carbon dioxide,0
+1002903,2011,Carbon Dioxide,51139.2
+1002903,2014,Nitrous Oxide,0
+1002958,2013,Biogenic Carbon dioxide,0
+1002977,2014,Methane,0
+1003204,2012,Biogenic Carbon dioxide,0
+1003052,2012,Biogenic Carbon dioxide,0
+1003052,2011,Methane,0
+1003268,2012,Methane,0
+1003268,2015,Methane,0
+1003268,2015,Carbon Dioxide,13749.8
+1003380,2010,Biogenic Carbon dioxide,0
+1003380,2012,Nitrous Oxide,.009
+1003380,2013,Methane,.04
+1003380,2014,Carbon Dioxide,6156.1
+1003380,2016,Carbon Dioxide,15547.1
+1003474,2011,Methane,0
+1003474,2012,Carbon Dioxide,78177.6
+1003474,2013,Carbon Dioxide,80919.6
+1003474,2015,Nitrous Oxide,0
+1003403,2010,Nitrous Oxide,0
+1003403,2011,Nitrous Oxide,0
+1003457,2010,Nitrous Oxide,0
+1003403,2012,Methane,0
+1003403,2012,Nitrous Oxide,0
+1003403,2013,Nitrous Oxide,0
+1003457,2012,Biogenic Carbon dioxide,0
+1003457,2012,Carbon Dioxide,177019.6
+1003457,2013,Methane,0
+1003403,2015,Biogenic Carbon dioxide,0
+1003403,2015,Carbon Dioxide,337370.4
+1003457,2015,Nitrous Oxide,0
+1003403,2016,Nitrous Oxide,0
+1003577,2016,Carbon Dioxide,6190.4
+1003580,2012,Nitrous Oxide,0
+1003580,2012,Carbon Dioxide,29175
+1003580,2013,Biogenic Carbon dioxide,0
+1000156,2015,Nitrous Oxide,.059
+1000159,2015,Biogenic Carbon dioxide,0
+1000159,2015,Methane,0
+1000274,2015,Biogenic Carbon dioxide,0
+1000588,2012,Carbon Dioxide,1139906.7
+1002903,2015,Nitrous Oxide,0
+1002903,2015,Carbon Dioxide,61261.3
+1003093,2015,Carbon Dioxide,45311.5
+1007177,2011,Methane,0
+1007177,2011,Carbon Dioxide,313386.6
+1000124,2011,Biogenic Carbon dioxide,0
+1000124,2011,Carbon Dioxide,31688
+1004811,2015,Carbon Dioxide,69218.5
+1005344,2015,Carbon Dioxide,77930
+1003902,2015,Nitrous Oxide,0
+1005598,2015,Carbon Dioxide,524097.1
+1005615,2015,Methane,.06
+1001621,2011,Biogenic Carbon dioxide,0
+1001621,2011,Carbon Dioxide,1295336.4
+1000588,2011,Carbon Dioxide,995911.4
+1007177,2013,Carbon Dioxide,580144.5
+1000233,2013,Biogenic Carbon dioxide,0
+1000233,2013,Methane,.01
+1000159,2013,Methane,0
+1001834,2013,Nitrous Oxide,.516
+1001834,2013,Carbon Dioxide,1769144
+1001618,2013,Methane,0
+1000274,2016,Carbon Dioxide,1400212
+1000156,2016,Methane,.03
+1001621,2016,Methane,0
+1000029,2010,Biogenic Carbon dioxide,0
+1000418,2010,Methane,.33
+1003093,2016,Nitrous Oxide,.022
+1002903,2016,Nitrous Oxide,0
+1001834,2010,Nitrous Oxide,.327
+1001834,2010,Carbon Dioxide,1277866.9
+1001621,2010,Methane,0
+1001621,2010,Carbon Dioxide,1255818.7
+1000274,2010,Biogenic Carbon dioxide,0
+1000274,2010,Nitrous Oxide,.553
+1003981,2010,Nitrous Oxide,0
+1003981,2011,Carbon Dioxide,56879.8
+1003981,2013,Methane,0
+1003981,2013,Nitrous Oxide,0
+1003965,2016,Nitrous Oxide,0
+1003981,2014,Methane,0
+1003981,2015,Biogenic Carbon dioxide,0
+1003981,2016,Biogenic Carbon dioxide,0
+1004038,2010,Biogenic Carbon dioxide,0
+1004038,2010,Methane,0
+1004038,2014,Biogenic Carbon dioxide,0
+1004038,2014,Methane,0
+1004038,2015,Biogenic Carbon dioxide,0
+1004038,2015,Carbon Dioxide,33807.8
+1004215,2010,Nitrous Oxide,0
+1004259,2016,Carbon Dioxide,131948.6
+1004215,2012,Biogenic Carbon dioxide,0
+1004215,2012,Methane,0
+1004215,2012,Carbon Dioxide,42991
+1004616,2015,Nitrous Oxide,0
+1004616,2016,Biogenic Carbon dioxide,0
+1004215,2013,Biogenic Carbon dioxide,0
+1004434,2011,Methane,0
+1004215,2015,Nitrous Oxide,0
+1004434,2014,Carbon Dioxide,1693.5
+1004453,2013,Nitrous Oxide,0
+1004509,2013,Carbon Dioxide,445641
+1004215,2016,Carbon Dioxide,84870.1
+1004434,2016,Carbon Dioxide,11745.7
+1004458,2011,Nitrous Oxide,0
+1004509,2014,Methane,0
+1004458,2012,Nitrous Oxide,0
+1004509,2015,Biogenic Carbon dioxide,0
+1004493,2010,Nitrous Oxide,0
+1004493,2011,Nitrous Oxide,0
+1004493,2012,Biogenic Carbon dioxide,0
+1004511,2011,Nitrous Oxide,0
+1004493,2015,Methane,0
+1004493,2015,Nitrous Oxide,0
+1004493,2015,Carbon Dioxide,25547.1
+1004511,2013,Carbon Dioxide,16338.8
+1004511,2014,Biogenic Carbon dioxide,0
+1004511,2014,Nitrous Oxide,0
+1005144,2012,Methane,0
+1005144,2012,Nitrous Oxide,0
+1005003,2010,Methane,0
+1005003,2011,Nitrous Oxide,0
+1005190,2010,Biogenic Carbon dioxide,0
+1005283,2010,Nitrous Oxide,0
+1005283,2011,Carbon Dioxide,113995.1
+1005190,2016,Biogenic Carbon dioxide,0
+1005163,2012,Biogenic Carbon dioxide,0
+1005163,2013,Biogenic Carbon dioxide,0
+1005163,2013,Nitrous Oxide,0
+1005163,2015,Nitrous Oxide,0
+1005163,2016,Methane,0
+1004151,2012,Biogenic Carbon dioxide,0
+1004151,2013,Nitrous Oxide,.026
+1004151,2013,Carbon Dioxide,160464
+1004151,2014,Methane,.35
+1004151,2014,Nitrous Oxide,.035
+1004151,2015,Biogenic Carbon dioxide,0
+1004151,2015,Carbon Dioxide,95281.2
+1004151,2016,Carbon Dioxide,174686.9
+1004411,2016,Biogenic Carbon dioxide,0
+1005303,2010,Carbon Dioxide,57000.3
+1005021,2013,Biogenic Carbon dioxide,0
+1005021,2013,Carbon Dioxide,38579
+1005303,2011,Methane,0
+1005344,2011,Methane,0
+1005344,2011,Nitrous Oxide,0
+1005344,2012,Nitrous Oxide,0
+1005276,2011,Nitrous Oxide,0
+1005303,2013,Biogenic Carbon dioxide,0
+1005344,2013,Nitrous Oxide,0
+1005344,2014,Biogenic Carbon dioxide,0
+1004729,2011,Biogenic Carbon dioxide,0
+1004729,2013,Biogenic Carbon dioxide,0
+1005276,2012,Methane,0
+1005276,2012,Nitrous Oxide,0
+1004729,2015,Nitrous Oxide,0
+1004729,2016,Carbon Dioxide,0
+1005346,2011,Biogenic Carbon dioxide,0
+1005294,2014,Nitrous Oxide,0
+1005294,2014,Carbon Dioxide,245397.1
+1005294,2015,Nitrous Oxide,0
+1005346,2014,Nitrous Oxide,0
+1005346,2015,Biogenic Carbon dioxide,0
+1005346,2016,Methane,0
+1005298,2013,Methane,0
+1005298,2016,Nitrous Oxide,0
+1005602,2011,Biogenic Carbon dioxide,0
+1005602,2012,Nitrous Oxide,0
+1005602,2012,Carbon Dioxide,69072
+1005584,2011,Biogenic Carbon dioxide,0
+1005602,2013,Biogenic Carbon dioxide,0
+1005602,2014,Biogenic Carbon dioxide,0
+1005602,2014,Nitrous Oxide,0
+1005602,2014,Carbon Dioxide,136219.6
+1005752,2010,Methane,0
+1005752,2010,Carbon Dioxide,59594
+1005602,2015,Carbon Dioxide,116857
+1005515,2014,Biogenic Carbon dioxide,0
+1005515,2014,Carbon Dioxide,25827
+1005515,2015,Nitrous Oxide,0
+1005598,2013,Carbon Dioxide,587268.8
+1005598,2014,Biogenic Carbon dioxide,0
+1005615,2011,Methane,.04
+1005423,2014,Methane,0
+1005832,2013,Carbon Dioxide,102071.3
+1005832,2014,Nitrous Oxide,.019
+1005832,2016,Carbon Dioxide,110791.2
+1006159,2016,Nitrous Oxide,0
+1005800,2013,Methane,0
+1005800,2014,Methane,0
+1005801,2010,Nitrous Oxide,0
+1005801,2015,Nitrous Oxide,0
+1006144,2013,Nitrous Oxide,.01
+1006144,2014,Nitrous Oxide,.01
+1006144,2014,Carbon Dioxide,43125.3
+1006144,2016,Biogenic Carbon dioxide,0
+1005832,2011,Methane,.2
+1005832,2012,Biogenic Carbon dioxide,0
+1005755,2010,Nitrous Oxide,0
+1005755,2012,Methane,0
+1005700,2014,Methane,0
+1005700,2014,Carbon Dioxide,167738.8
+1005755,2015,Methane,0
+1005755,2016,Methane,0
+1006269,2012,Nitrous Oxide,0
+1006341,2010,Carbon Dioxide,54212.2
+1006341,2013,Methane,.11
+1006341,2014,Nitrous Oxide,.012
+1006341,2016,Methane,.14
+1006325,2010,Biogenic Carbon dioxide,0
+1006325,2011,Biogenic Carbon dioxide,0
+1006436,2012,Methane,0
+1006436,2013,Nitrous Oxide,0
+1006875,2015,Biogenic Carbon dioxide,0
+1006708,2010,Methane,0
+1006708,2011,Nitrous Oxide,0
+1006530,2010,Methane,0
+1006972,2010,Methane,0
+1006530,2011,Biogenic Carbon dioxide,0
+1006972,2014,Methane,0
+1006530,2013,Nitrous Oxide,0
+1006530,2014,Nitrous Oxide,0
+1006530,2015,Carbon Dioxide,50093.3
+1006530,2016,Methane,0
+1007287,2011,Methane,0
+1007287,2012,Carbon Dioxide,1153232.5
+1007287,2014,Carbon Dioxide,1010627.4
+1006585,2011,Methane,0
+1006901,2010,Methane,0
+1006901,2011,Methane,0
+1006585,2013,Biogenic Carbon dioxide,0
+1006585,2013,Methane,0
+1006585,2014,Nitrous Oxide,0
+1006585,2014,Carbon Dioxide,7365.8
+1006585,2016,Biogenic Carbon dioxide,0
+1006585,2016,Methane,0
+1006585,2016,Carbon Dioxide,4985.3
+1006906,2010,Nitrous Oxide,0
+1006906,2012,Biogenic Carbon dioxide,0
+1006906,2013,Methane,0
+1006906,2013,Nitrous Oxide,0
+1006906,2014,Biogenic Carbon dioxide,0
+1006906,2014,Carbon Dioxide,39995
+1006906,2015,Nitrous Oxide,0
+1006906,2015,Carbon Dioxide,38209.5
+1007348,2016,Carbon Dioxide,32073.7
+1007392,2013,Biogenic Carbon dioxide,0
+1007348,2010,Carbon Dioxide,20866
+1007392,2016,Biogenic Carbon dioxide,0
+1007348,2011,Nitrous Oxide,0
+1007348,2012,Carbon Dioxide,26639
+1007642,2014,Nitrous Oxide,.05
+1008263,2012,Carbon Dioxide,4504.3
+1007642,2015,Methane,.42
+1007642,2015,Nitrous Oxide,.042
+1007642,2016,Methane,.43
+1007921,2010,Biogenic Carbon dioxide,0
+1007921,2011,Biogenic Carbon dioxide,0
+1007921,2013,Carbon Dioxide,253900.6
+1007921,2015,Nitrous Oxide,0
+1007866,2010,Methane,0
+1008735,2013,Carbon Dioxide,5816
+1007620,2010,Biogenic Carbon dioxide,0
+1008735,2015,Methane,0
+1007620,2011,Nitrous Oxide,0
+1007620,2011,Carbon Dioxide,25295
+1007620,2012,Methane,0
+1007620,2016,Carbon Dioxide,918.9
+1007946,2010,Nitrous Oxide,.012
+1003580,2015,Nitrous Oxide,0
+1003580,2016,Methane,0
+1003507,2010,Nitrous Oxide,0
+1003507,2011,Methane,0
+1003577,2010,Methane,0
+1003577,2012,Biogenic Carbon dioxide,0
+1003688,2011,Carbon Dioxide,50311.4
+1003688,2012,Methane,0
+1003688,2012,Nitrous Oxide,0
+1003668,2010,Methane,0
+1003668,2010,Carbon Dioxide,86119.4
+1003668,2012,Nitrous Oxide,0
+1003668,2014,Biogenic Carbon dioxide,0
+1003669,2014,Nitrous Oxide,0
+1003860,2011,Nitrous Oxide,0
+1003860,2010,Methane,0
+1003965,2010,Biogenic Carbon dioxide,0
+1003965,2010,Carbon Dioxide,24583
+1003965,2011,Nitrous Oxide,0
+1003965,2013,Biogenic Carbon dioxide,0
+1003965,2013,Carbon Dioxide,22764.2
+1007695,2012,Methane,.33
+1007695,2015,Nitrous Oxide,.027
+1007946,2016,Carbon Dioxide,108973.7
+1007577,2010,Methane,0
+1011242,2014,Biogenic Carbon dioxide,0
+1011242,2016,Methane,0
+1012625,2016,Methane,0
+1010766,2016,Biogenic Carbon dioxide,0
+1010766,2016,Nitrous Oxide,0
+1010925,2010,Biogenic Carbon dioxide,0
+1011726,2013,Nitrous Oxide,0
+1011726,2014,Nitrous Oxide,0
+1010763,2013,Methane,0
+1007177,2010,Nitrous Oxide,.049
+1005976,2010,Methane,0
+1004811,2016,Nitrous Oxide,0
+1001834,2014,Methane,.08
+1001834,2014,Carbon Dioxide,1378463.8
+1002769,2013,Nitrous Oxide,0
+1004151,2011,Carbon Dioxide,177026.2
+1005276,2016,Biogenic Carbon dioxide,0
+1005276,2016,Carbon Dioxide,55870.6
+1004811,2013,Carbon Dioxide,59481.5
+1005536,2013,Biogenic Carbon dioxide,0
+1003962,2015,Methane,.31
+1005615,2013,Methane,.02
+1005615,2013,Carbon Dioxide,570139.4
+1005976,2012,Methane,0
+1000124,2014,Methane,0
+1001563,2013,Methane,.06
+1004036,2012,Biogenic Carbon dioxide,0
+1003902,2014,Nitrous Oxide,0
+1003902,2014,Carbon Dioxide,62623
+1003577,2014,Methane,0
+1004458,2014,Carbon Dioxide,867403.3
+1004811,2012,Nitrous Oxide,0
+1005777,2014,Carbon Dioxide,78064.4
+1004811,2010,Methane,0
+1003962,2010,Methane,.13
+1003962,2014,Nitrous Oxide,1.009
+1005615,2014,Biogenic Carbon dioxide,0
+1001563,2014,Carbon Dioxide,15746.4
+1000418,2011,Biogenic Carbon dioxide,0
+1002977,2015,Methane,0
+1002977,2015,Nitrous Oxide,0
+1006041,2012,Biogenic Carbon dioxide,0
+1000159,2014,Nitrous Oxide,.016
+1001621,2014,Methane,0
+1005276,2015,Methane,0
+1005615,2012,Methane,.02
+1000177,2011,Carbon Dioxide,314300.5
+1004036,2015,Biogenic Carbon dioxide,0
+1004036,2015,Nitrous Oxide,0
+1004493,2014,Nitrous Oxide,0
+1007177,2016,Biogenic Carbon dioxide,0
+1000233,2016,Nitrous Oxide,.009
+1001563,2011,Nitrous Oxide,.087
+1006041,2010,Biogenic Carbon dioxide,0
+1005777,2015,Biogenic Carbon dioxide,0
+1003052,2010,Carbon Dioxide,17344
+1000233,2015,Biogenic Carbon dioxide,0
+1001699,2014,Biogenic Carbon dioxide,0
+1000233,2014,Nitrous Oxide,.137
+1004411,2013,Methane,0
+1004411,2013,Carbon Dioxide,73239
+1000394,2016,Nitrous Oxide,0
+1000394,2016,Carbon Dioxide,9726.1
+1000274,2012,Methane,.18
+1003962,2011,Methane,.27
+1007348,2013,Carbon Dioxide,21655
+1003902,2011,Methane,0
+1003902,2011,Nitrous Oxide,0
+1000330,2010,Biogenic Carbon dioxide,0
+1001618,2011,Methane,0
+1000399,2012,Carbon Dioxide,631.5
+1001103,2011,Carbon Dioxide,31151.3
+1002769,2011,Biogenic Carbon dioxide,0
+1003577,2011,Nitrous Oxide,0
+1004411,2011,Biogenic Carbon dioxide,0
+1006159,2011,Biogenic Carbon dioxide,0
+1006159,2011,Methane,0
+1006972,2012,Biogenic Carbon dioxide,0
+1007392,2012,Biogenic Carbon dioxide,0
+1006144,2011,Carbon Dioxide,59781
+1006708,2012,Biogenic Carbon dioxide,0
+1006708,2012,Carbon Dioxide,21905
+1005755,2011,Methane,0
+1011726,2011,Methane,0
+1011726,2011,Nitrous Oxide,0
+1000029,2011,Methane,0
+1000029,2014,Nitrous Oxide,0
+1000235,2014,Biogenic Carbon dioxide,0
+1000235,2016,Carbon Dioxide,39
+1000235,2010,Methane,.1
+1000235,2011,Methane,0
+1000235,2011,Carbon Dioxide,3898
+1000235,2013,Nitrous Oxide,.03
+1000330,2012,Methane,0
+1000330,2015,Methane,0
+1000330,2016,Biogenic Carbon dioxide,0
+1000330,2016,Methane,0
+1000394,2015,Methane,0
+1000399,2010,Nitrous Oxide,0
+1000399,2011,Nitrous Oxide,0
+1000399,2014,Carbon Dioxide,743.2
+1000399,2016,Carbon Dioxide,632.1
+1000714,2010,Methane,0
+1000714,2011,Nitrous Oxide,0
+1000714,2011,Carbon Dioxide,4313
+1000714,2013,Carbon Dioxide,13678
+1000714,2016,Carbon Dioxide,35350.1
+1000802,2013,Carbon Dioxide,36884.3
+1001103,2010,Methane,0
+1001103,2010,Nitrous Oxide,0
+1001103,2013,Methane,0
+1001618,2012,Methane,0
+1001618,2016,Carbon Dioxide,0
+1001699,2012,Methane,0
+1001699,2013,Nitrous Oxide,0
+1001669,2012,Biogenic Carbon dioxide,0
+1001669,2012,Methane,0
+1001669,2014,Methane,0
+1001669,2015,Nitrous Oxide,0
+1001669,2016,Nitrous Oxide,0
+1001673,2010,Nitrous Oxide,0
+1001673,2011,Methane,0
+1001958,2012,Methane,0
+1001958,2013,Biogenic Carbon dioxide,0
+1001958,2014,Carbon Dioxide,69.3
+1001958,2016,Biogenic Carbon dioxide,0
+1002147,2010,Biogenic Carbon dioxide,0
+1002147,2015,Carbon Dioxide,157690.1
+1002147,2011,Methane,0
+1002147,2011,Nitrous Oxide,0
+1002147,2012,Biogenic Carbon dioxide,0
+1002147,2012,Methane,0
+1002147,2013,Biogenic Carbon dioxide,0
+1002266,2013,Biogenic Carbon dioxide,0
+1002266,2014,Biogenic Carbon dioxide,0
+1002266,2015,Nitrous Oxide,.057
+1002216,2013,Nitrous Oxide,0
+1002216,2016,Nitrous Oxide,0
+1002621,2015,Nitrous Oxide,0
+1002777,2010,Nitrous Oxide,0
+1002768,2010,Nitrous Oxide,0
+1002777,2014,Methane,0
+1002777,2016,Nitrous Oxide,0
+1002768,2013,Nitrous Oxide,0
+1002768,2016,Nitrous Oxide,0
+1002769,2015,Methane,0
+1002903,2010,Methane,0
+1002958,2012,Biogenic Carbon dioxide,0
+1002958,2015,Biogenic Carbon dioxide,0
+1002977,2012,Nitrous Oxide,0
+1002977,2013,Methane,0
+1002977,2016,Carbon Dioxide,63336.5
+1003204,2012,Methane,0
+1003052,2012,Nitrous Oxide,0
+1003052,2012,Carbon Dioxide,23836.7
+1003052,2013,Nitrous Oxide,0
+1003052,2014,Biogenic Carbon dioxide,0
+1003052,2011,Carbon Dioxide,18937.2
+1003268,2012,Biogenic Carbon dioxide,0
+1003268,2013,Nitrous Oxide,0
+1003268,2014,Methane,0
+1003268,2014,Nitrous Oxide,0
+1003268,2016,Methane,0
+1003268,2016,Nitrous Oxide,0
+1003380,2010,Carbon Dioxide,15947.8
+1003380,2012,Biogenic Carbon dioxide,0
+1003380,2015,Methane,.06
+1003474,2014,Methane,0
+1003403,2011,Methane,0
+1003457,2011,Biogenic Carbon dioxide,0
+1003457,2011,Methane,0
+1003403,2012,Biogenic Carbon dioxide,0
+1003457,2013,Nitrous Oxide,0
+1003457,2016,Nitrous Oxide,0
+1003580,2010,Carbon Dioxide,22535
+1000124,2015,Nitrous Oxide,0
+1000156,2015,Carbon Dioxide,1305802.9
+1000274,2015,Nitrous Oxide,.72
+1006041,2015,Biogenic Carbon dioxide,0
+1001834,2015,Methane,.04
+1001834,2015,Carbon Dioxide,912257.3
+1005976,2015,Methane,0
+1002903,2015,Methane,0
+1000330,2014,Nitrous Oxide,0
+1003093,2015,Nitrous Oxide,.085
+1000124,2011,Nitrous Oxide,0
+1004811,2015,Biogenic Carbon dioxide,0
+1005344,2015,Biogenic Carbon dioxide,0
+1005344,2015,Methane,0
+1001563,2015,Nitrous Oxide,.048
+1005536,2015,Nitrous Oxide,0
+1006041,2011,Nitrous Oxide,.35
+1000588,2011,Methane,.05
+1000588,2011,Nitrous Oxide,.249
+1005976,2011,Carbon Dioxide,187596.9
+1011242,2015,Methane,0
+1011242,2015,Nitrous Oxide,0
+1001834,2016,Carbon Dioxide,1225846.8
+1001834,2010,Biogenic Carbon dioxide,0
+1000124,2010,Biogenic Carbon dioxide,0
+1000124,2010,Methane,0
+1000274,2010,Methane,.15
+1003981,2010,Carbon Dioxide,51856.8
+1003981,2013,Biogenic Carbon dioxide,0
+1003965,2015,Biogenic Carbon dioxide,0
+1003965,2015,Methane,0
+1003981,2014,Biogenic Carbon dioxide,0
+1004038,2013,Nitrous Oxide,0
+1004038,2016,Biogenic Carbon dioxide,0
+1004215,2010,Methane,0
+1004259,2016,Methane,0
+1004616,2010,Methane,0
+1004616,2011,Biogenic Carbon dioxide,0
+1004616,2011,Carbon Dioxide,316979
+1004215,2012,Nitrous Oxide,0
+1004509,2010,Nitrous Oxide,0
+1004616,2015,Biogenic Carbon dioxide,0
+1004215,2013,Nitrous Oxide,0
+1004509,2011,Biogenic Carbon dioxide,0
+1004509,2011,Methane,0
+1004453,2011,Biogenic Carbon dioxide,0
+1004453,2012,Carbon Dioxide,26005.7
+1004509,2012,Methane,0
+1004215,2015,Biogenic Carbon dioxide,0
+1004434,2013,Biogenic Carbon dioxide,0
+1004434,2014,Biogenic Carbon dioxide,0
+1004434,2015,Carbon Dioxide,20737.7
+1004453,2013,Biogenic Carbon dioxide,0
+1004509,2014,Biogenic Carbon dioxide,0
+1004458,2012,Biogenic Carbon dioxide,0
+1004509,2015,Carbon Dioxide,361491.7
+1004458,2015,Methane,0
+1004493,2013,Nitrous Oxide,0
+1004458,2016,Biogenic Carbon dioxide,0
+1004511,2012,Biogenic Carbon dioxide,0
+1004511,2016,Biogenic Carbon dioxide,0
+1004511,2016,Methane,.09
+1005116,2010,Carbon Dioxide,175963.1
+1005144,2015,Methane,0
+1005116,2013,Biogenic Carbon dioxide,0
+1005025,2015,Methane,.32
+1005025,2015,Carbon Dioxide,32390
+1005116,2014,Nitrous Oxide,0
+1005116,2015,Biogenic Carbon dioxide,0
+1005003,2011,Biogenic Carbon dioxide,0
+1005190,2014,Carbon Dioxide,63154
+1005283,2012,Carbon Dioxide,96421
+1005003,2013,Methane,0
+1005190,2016,Nitrous Oxide,0
+1005283,2016,Methane,0
+1005163,2015,Biogenic Carbon dioxide,0
+1005163,2015,Carbon Dioxide,166159.2
+1005163,2016,Biogenic Carbon dioxide,0
+1004152,2011,Nitrous Oxide,0
+1004152,2012,Nitrous Oxide,0
+1004411,2012,Methane,0
+1004411,2012,Nitrous Oxide,0
+1004152,2015,Biogenic Carbon dioxide,0
+1004411,2015,Methane,0
+1005021,2010,Biogenic Carbon dioxide,0
+1005021,2010,Methane,0
+1005021,2011,Methane,0
+1005021,2011,Nitrous Oxide,0
+1005303,2011,Carbon Dioxide,66863
+1005303,2012,Biogenic Carbon dioxide,0
+1005344,2012,Biogenic Carbon dioxide,0
+1005021,2015,Biogenic Carbon dioxide,0
+1005276,2011,Carbon Dioxide,184854.5
+1005344,2013,Carbon Dioxide,64718.4
+1004729,2011,Methane,0
+1004729,2013,Methane,0
+1004729,2014,Biogenic Carbon dioxide,0
+1004729,2014,Methane,0
+1004729,2016,Methane,0
+1005346,2011,Nitrous Oxide,0
+1005346,2011,Carbon Dioxide,79495.1
+1005346,2012,Biogenic Carbon dioxide,0
+1005294,2015,Methane,0
+1005346,2015,Methane,0
+1005346,2015,Nitrous Oxide,0
+1005346,2015,Carbon Dioxide,73180.4
+1005294,2016,Nitrous Oxide,0
+1005346,2016,Nitrous Oxide,0
+1005346,2016,Carbon Dioxide,44503
+1005298,2014,Nitrous Oxide,0
+1005584,2010,Carbon Dioxide,697968.4
+1005602,2014,Methane,0
+1005584,2013,Methane,0
+1005584,2013,Nitrous Oxide,0
+1005602,2015,Biogenic Carbon dioxide,0
+1005602,2016,Biogenic Carbon dioxide,0
+1005602,2016,Methane,0
+1005584,2015,Carbon Dioxide,603174.9
+1005515,2010,Methane,0
+1005515,2010,Nitrous Oxide,0
+1005515,2010,Carbon Dioxide,18928.7
+1005515,2011,Biogenic Carbon dioxide,0
+1005515,2011,Carbon Dioxide,16997.6
+1005515,2012,Methane,0
+1005515,2012,Carbon Dioxide,20344
+1005515,2015,Biogenic Carbon dioxide,0
+1005515,2015,Carbon Dioxide,27230
+1005598,2011,Nitrous Oxide,0
+1005598,2014,Carbon Dioxide,499998.4
+1005598,2016,Biogenic Carbon dioxide,0
+1005598,2016,Carbon Dioxide,418320.4
+1005423,2012,Biogenic Carbon dioxide,0
+1005423,2012,Methane,0
+1005423,2013,Methane,0
+1005602,2010,Biogenic Carbon dioxide,0
+1005832,2014,Methane,.18
+1005832,2014,Carbon Dioxide,100978.9
+1005832,2015,Methane,.16
+1006159,2013,Methane,0
+1006159,2016,Methane,0
+1005800,2011,Methane,0
+1005800,2013,Biogenic Carbon dioxide,0
+1005800,2013,Nitrous Oxide,0
+1005800,2014,Carbon Dioxide,20307
+1005801,2014,Biogenic Carbon dioxide,0
+1005801,2015,Biogenic Carbon dioxide,0
+1005801,2016,Methane,0
+1005801,2016,Carbon Dioxide,5976.7
+1006144,2010,Methane,0
+1005976,2013,Biogenic Carbon dioxide,0
+1005976,2014,Nitrous Oxide,0
+1005976,2014,Carbon Dioxide,269747
+1005976,2016,Methane,0
+1005832,2011,Carbon Dioxide,106292.1
+1005755,2010,Carbon Dioxide,29781
+1005755,2012,Nitrous Oxide,0
+1005700,2010,Carbon Dioxide,181772
+1005700,2011,Biogenic Carbon dioxide,0
+1005755,2013,Biogenic Carbon dioxide,0
+1005755,2013,Methane,0
+1005755,2014,Methane,0
+1005700,2013,Nitrous Oxide,0
+1006269,2010,Methane,0
+1006269,2010,Carbon Dioxide,52206.5
+1006269,2014,Biogenic Carbon dioxide,0
+1006269,2014,Methane,0
+1006269,2016,Carbon Dioxide,30978.4
+1006341,2011,Methane,.12
+1006341,2013,Biogenic Carbon dioxide,0
+1006341,2014,Carbon Dioxide,66124
+1006325,2013,Biogenic Carbon dioxide,0
+1006325,2013,Methane,0
+1006436,2012,Nitrous Oxide,0
+1006875,2012,Carbon Dioxide,1738
+1006875,2013,Methane,.17
+1006708,2013,Methane,0
+1006708,2015,Biogenic Carbon dioxide,0
+1006972,2011,Nitrous Oxide,0
+1006972,2014,Carbon Dioxide,7611
+1006530,2014,Carbon Dioxide,57312.4
+1006875,2010,Biogenic Carbon dioxide,0
+1006875,2010,Methane,0
+1006875,2010,Nitrous Oxide,0
+1006530,2016,Nitrous Oxide,0
+1007287,2010,Biogenic Carbon dioxide,0
+1007287,2013,Biogenic Carbon dioxide,0
+1007287,2015,Biogenic Carbon dioxide,0
+1007287,2015,Nitrous Oxide,0
+1007287,2016,Nitrous Oxide,0
+1007287,2016,Carbon Dioxide,1056679.7
+1006585,2010,Carbon Dioxide,8765
+1006585,2011,Nitrous Oxide,0
+1006585,2011,Carbon Dioxide,8162
+1006901,2010,Nitrous Oxide,0
+1006901,2011,Carbon Dioxide,59494
+1006901,2015,Biogenic Carbon dioxide,0
+1006901,2015,Methane,0
+1006585,2014,Biogenic Carbon dioxide,0
+1006901,2016,Carbon Dioxide,54858.6
+1006585,2015,Methane,.03
+1006906,2013,Biogenic Carbon dioxide,0
+1006906,2015,Biogenic Carbon dioxide,0
+1007392,2014,Biogenic Carbon dioxide,0
+1007392,2014,Nitrous Oxide,.11
+1007348,2010,Biogenic Carbon dioxide,0
+1007348,2011,Methane,0
+1007348,2012,Biogenic Carbon dioxide,0
+1007348,2014,Biogenic Carbon dioxide,0
+1007642,2011,Nitrous Oxide,.07
+1008263,2010,Biogenic Carbon dioxide,0
+1008263,2010,Carbon Dioxide,3672
+1007642,2013,Biogenic Carbon dioxide,0
+1007642,2014,Methane,.5
+1008263,2011,Biogenic Carbon dioxide,0
+1008263,2012,Biogenic Carbon dioxide,0
+1008263,2012,Methane,0
+1008263,2012,Nitrous Oxide,0
+1007921,2011,Carbon Dioxide,506402
+1007921,2013,Nitrous Oxide,0
+1007921,2014,Nitrous Oxide,0
+1007921,2015,Biogenic Carbon dioxide,0
+1007866,2010,Biogenic Carbon dioxide,0
+1007866,2010,Nitrous Oxide,0
+1007866,2011,Carbon Dioxide,64824.5
+1007866,2016,Carbon Dioxide,41000.1
+1007620,2010,Methane,0
+1008735,2015,Carbon Dioxide,5335.7
+1008735,2016,Methane,0
+1007620,2011,Methane,0
+1007620,2015,Methane,0
+1007620,2015,Nitrous Oxide,0
+1003580,2016,Biogenic Carbon dioxide,0
+1003580,2016,Carbon Dioxide,18732.8
+1003507,2013,Biogenic Carbon dioxide,0
+1003507,2014,Biogenic Carbon dioxide,0
+1003507,2016,Methane,0
+1003688,2010,Nitrous Oxide,0
+1003688,2013,Biogenic Carbon dioxide,0
+1003688,2014,Biogenic Carbon dioxide,0
+1003668,2010,Nitrous Oxide,0
+1003668,2012,Methane,0
+1003668,2015,Nitrous Oxide,0
+1003668,2016,Carbon Dioxide,42083
+1003669,2012,Carbon Dioxide,229276
+1003669,2013,Nitrous Oxide,0
+1003799,2013,Methane,0
+1003799,2014,Nitrous Oxide,0
+1003860,2013,Methane,0
+1003860,2013,Nitrous Oxide,0
+1003860,2015,Nitrous Oxide,0
+1003860,2016,Nitrous Oxide,0
+1003860,2016,Carbon Dioxide,77196.8
+1003860,2010,Biogenic Carbon dioxide,0
+1003962,2016,Biogenic Carbon dioxide,0
+1003965,2012,Methane,0
+1003981,2010,Biogenic Carbon dioxide,0
+1007946,2011,Carbon Dioxide,90079.6
+1007695,2011,Methane,.28
+1007946,2012,Methane,.12
+1007695,2013,Biogenic Carbon dioxide,0
+1007695,2013,Nitrous Oxide,.033
+1007577,2011,Biogenic Carbon dioxide,0
+1007577,2013,Biogenic Carbon dioxide,0
+1011242,2013,Biogenic Carbon dioxide,0
+1011242,2014,Nitrous Oxide,0
+1011242,2016,Biogenic Carbon dioxide,0
+1010766,2015,Biogenic Carbon dioxide,0
+1010766,2015,Nitrous Oxide,0
+1010925,2010,Carbon Dioxide,4052.6
+1011726,2015,Biogenic Carbon dioxide,0
+1010925,2013,Biogenic Carbon dioxide,0
+1010763,2013,Nitrous Oxide,0
+1010763,2016,Biogenic Carbon dioxide,0
+1010763,2016,Methane,0
+1000156,2010,Carbon Dioxide,2072627.5
+1007177,2010,Biogenic Carbon dioxide,0
+1005976,2010,Nitrous Oxide,0
+1000233,2010,Biogenic Carbon dioxide,0
+1004811,2016,Carbon Dioxide,36942.7
+1005025,2016,Nitrous Oxide,.06
+1001563,2016,Biogenic Carbon dioxide,0
+1002769,2013,Methane,0
+1004036,2014,Nitrous Oxide,0
+1003902,2013,Methane,0
+1005777,2013,Biogenic Carbon dioxide,0
+1005777,2013,Methane,.17
+1005777,2013,Nitrous Oxide,.017
+1005276,2016,Nitrous Oxide,0
+1004036,2011,Biogenic Carbon dioxide,0
+1005777,2011,Nitrous Oxide,0
+1005536,2011,Methane,0
+1000156,2012,Methane,.2
+1005615,2013,Biogenic Carbon dioxide,0
+1002147,2014,Nitrous Oxide,0
+1001563,2013,Nitrous Oxide,.013
+1004458,2010,Nitrous Oxide,0
+1001563,2012,Biogenic Carbon dioxide,0
+1005536,2012,Biogenic Carbon dioxide,0
+1005536,2012,Methane,0
+1004811,2012,Carbon Dioxide,62385.1
+1005615,2010,Biogenic Carbon dioxide,0
+1001563,2010,Biogenic Carbon dioxide,0
+1006436,2010,Methane,0
+1006436,2010,Nitrous Oxide,0
+1005614,2010,Nitrous Oxide,.034
+1003962,2014,Methane,.35
+1004453,2014,Carbon Dioxide,11125.4
+1000418,2011,Nitrous Oxide,.507
+1000418,2014,Carbon Dioxide,2068366
+1000159,2014,Biogenic Carbon dioxide,0
+1000159,2014,Methane,0
+1006041,2014,Biogenic Carbon dioxide,0
+1001621,2014,Biogenic Carbon dioxide,0
+1000553,2011,Carbon Dioxide,414322.8
+1000418,2016,Carbon Dioxide,1529464.8
+1000233,2011,Methane,.01
+1005190,2015,Nitrous Oxide,0
+1004453,2015,Methane,0
+1004453,2015,Nitrous Oxide,0
+1000177,2011,Biogenic Carbon dioxide,0
+1005536,2016,Nitrous Oxide,0
+1005536,2016,Carbon Dioxide,7638.6
+1004493,2014,Biogenic Carbon dioxide,0
+1005800,2015,Carbon Dioxide,16383.6
+1001563,2011,Biogenic Carbon dioxide,0
+1004036,2016,Nitrous Oxide,0
+1006041,2010,Carbon Dioxide,1410085.7
+1005003,2015,Biogenic Carbon dioxide,0
+1000588,2015,Nitrous Oxide,.188
+1000233,2014,Methane,.03
+1004036,2013,Carbon Dioxide,12719.8
+1000588,2016,Carbon Dioxide,784438.8
+1006041,2013,Nitrous Oxide,.403
+1006041,2013,Carbon Dioxide,1299929.8
+1000418,2012,Methane,.3
+1000418,2012,Nitrous Oxide,.341
+1007348,2013,Biogenic Carbon dioxide,0
+1007348,2013,Methane,0
+1005536,2010,Biogenic Carbon dioxide,0
+1007620,2014,Methane,0
+1007620,2014,Nitrous Oxide,0
+1001834,2012,Biogenic Carbon dioxide,0
+1000124,2012,Biogenic Carbon dioxide,0
+1000124,2012,Carbon Dioxide,31917.9
+1008735,2012,Methane,0
+1008735,2012,Nitrous Oxide,0
+1000330,2011,Biogenic Carbon dioxide,0
+1002769,2011,Carbon Dioxide,2853.9
+1003093,2011,Methane,0
+1003093,2011,Carbon Dioxide,46211.7
+1003577,2011,Carbon Dioxide,8973
+1004434,2012,Methane,0
+1004434,2012,Nitrous Oxide,0
+1004411,2011,Nitrous Oxide,0
+1005163,2011,Carbon Dioxide,173391.9
+1005298,2011,Biogenic Carbon dioxide,0
+1005298,2011,Carbon Dioxide,21110
+1007392,2012,Methane,.6
+1007392,2012,Carbon Dioxide,100071
+1006708,2012,Methane,0
+1000029,2011,Biogenic Carbon dioxide,0
+1000029,2015,Methane,0
+1000235,2014,Nitrous Oxide,.004
+1000235,2015,Nitrous Oxide,.025
+1000235,2013,Methane,.1
+1000330,2015,Carbon Dioxide,31809.7
+1000394,2010,Methane,0
+1000394,2010,Nitrous Oxide,0
+1000394,2011,Carbon Dioxide,11956
+1000394,2012,Methane,0
+1000394,2013,Carbon Dioxide,9886
+1000394,2014,Methane,0
+1000399,2011,Biogenic Carbon dioxide,0
+1000588,2010,Nitrous Oxide,.054
+1000714,2014,Nitrous Oxide,0
+1000802,2013,Methane,.39
+1000802,2010,Methane,.14
+1000802,2012,Methane,.18
+1000802,2012,Nitrous Oxide,.038
+1000802,2014,Biogenic Carbon dioxide,0
+1000802,2016,Carbon Dioxide,2751.2
+1001103,2013,Biogenic Carbon dioxide,0
+1001103,2016,Nitrous Oxide,0
+1001618,2012,Nitrous Oxide,0
+1001621,2013,Nitrous Oxide,0
+1001673,2016,Methane,0
+1001699,2011,Biogenic Carbon dioxide,0
+1001699,2013,Methane,0
+1001669,2010,Biogenic Carbon dioxide,0
+1001669,2010,Methane,0
+1001669,2010,Nitrous Oxide,0
+1001669,2011,Nitrous Oxide,0
+1001669,2015,Carbon Dioxide,18528.1
+1001669,2016,Carbon Dioxide,17514.6
+1001673,2011,Biogenic Carbon dioxide,0
+1001673,2013,Nitrous Oxide,0
+1001958,2013,Carbon Dioxide,69.2
+1002147,2016,Biogenic Carbon dioxide,0
+1002266,2010,Nitrous Oxide,.063
+1002266,2011,Biogenic Carbon dioxide,0
+1002216,2012,Carbon Dioxide,29247
+1002216,2016,Methane,0
+1002714,2015,Carbon Dioxide,1418.1
+1002621,2012,Biogenic Carbon dioxide,0
+1002621,2012,Nitrous Oxide,0
+1002621,2014,Biogenic Carbon dioxide,0
+1002621,2015,Methane,0
+1002777,2010,Carbon Dioxide,1076672.5
+1002777,2011,Nitrous Oxide,0
+1002777,2011,Carbon Dioxide,800897
+1002777,2012,Nitrous Oxide,0
+1002777,2012,Carbon Dioxide,798710.7
+1002777,2014,Carbon Dioxide,941592.8
+1002777,2015,Methane,0
+1002768,2013,Carbon Dioxide,77196.1
+1002768,2014,Biogenic Carbon dioxide,0
+1002768,2015,Carbon Dioxide,18443.8
+1002769,2010,Carbon Dioxide,2245
+1002769,2014,Carbon Dioxide,1642.8
+1002769,2015,Biogenic Carbon dioxide,0
+1002903,2012,Biogenic Carbon dioxide,0
+1002903,2013,Methane,0
+1002903,2013,Nitrous Oxide,0
+1002958,2012,Carbon Dioxide,198347
+1002958,2013,Nitrous Oxide,0
+1002977,2010,Nitrous Oxide,0
+1002958,2016,Nitrous Oxide,0
+1002958,2016,Carbon Dioxide,219977.3
+1002977,2012,Methane,0
+1003204,2010,Nitrous Oxide,0
+1003204,2010,Carbon Dioxide,579772
+1003204,2013,Biogenic Carbon dioxide,0
+1003204,2016,Methane,0
+1003093,2013,Nitrous Oxide,.126
+1003093,2013,Carbon Dioxide,58049.8
+1003052,2013,Biogenic Carbon dioxide,0
+1003052,2011,Biogenic Carbon dioxide,0
+1003268,2010,Biogenic Carbon dioxide,0
+1003268,2010,Carbon Dioxide,10125.6
+1003268,2013,Biogenic Carbon dioxide,0
+1003380,2010,Methane,.14
+1003474,2011,Biogenic Carbon dioxide,0
+1003474,2014,Biogenic Carbon dioxide,0
+1003403,2011,Biogenic Carbon dioxide,0
+1003457,2010,Methane,0
+1003457,2013,Carbon Dioxide,152658.3
+1003403,2014,Nitrous Oxide,0
+1003403,2015,Methane,0
+1003457,2015,Carbon Dioxide,155618.5
+1003577,2016,Methane,0
+1003580,2011,Carbon Dioxide,30637
+1000156,2015,Methane,.01
+1000274,2015,Carbon Dioxide,1382690.3
+1001834,2015,Biogenic Carbon dioxide,0
+1000588,2012,Methane,.07
+1005976,2015,Nitrous Oxide,0
+1006041,2016,Nitrous Oxide,0
+1006041,2016,Carbon Dioxide,0
+1003093,2015,Biogenic Carbon dioxide,0
+1004259,2015,Methane,0
+1007177,2011,Biogenic Carbon dioxide,0
+1007177,2011,Nitrous Oxide,.008
+1005615,2015,Carbon Dioxide,174998.3
+1005976,2011,Biogenic Carbon dioxide,0
+1011242,2015,Carbon Dioxide,7371.2
+1007177,2013,Nitrous Oxide,.08
+1000156,2013,Methane,.03
+1001618,2013,Carbon Dioxide,262025.5
+1000274,2016,Biogenic Carbon dioxide,0
+1001621,2016,Nitrous Oxide,0
+1000418,2010,Biogenic Carbon dioxide,0
+1000418,2010,Carbon Dioxide,1619760.4
+1002903,2016,Methane,0
+1001621,2010,Biogenic Carbon dioxide,0
+1000156,2010,Biogenic Carbon dioxide,0
+1003981,2011,Biogenic Carbon dioxide,0
+1003981,2011,Methane,0
+1003981,2015,Methane,0
+1004038,2015,Methane,0
+1004038,2016,Methane,0
+1004259,2012,Nitrous Oxide,0
+1004259,2014,Carbon Dioxide,106729.1
+1004259,2016,Biogenic Carbon dioxide,0
+1004616,2011,Nitrous Oxide,0
+1004616,2012,Biogenic Carbon dioxide,0
+1004616,2013,Biogenic Carbon dioxide,0
+1004616,2014,Carbon Dioxide,552144.7
+1004616,2016,Methane,0
+1004616,2016,Nitrous Oxide,0
+1004215,2013,Methane,0
+1004509,2011,Carbon Dioxide,678573.3
+1004434,2010,Methane,0
+1004434,2010,Carbon Dioxide,8115.4
+1004453,2011,Methane,0
+1004453,2012,Methane,0
+1004509,2012,Nitrous Oxide,0
+1004215,2015,Methane,0
+1004215,2015,Carbon Dioxide,131058.7
+1004434,2014,Methane,0
+1004434,2015,Biogenic Carbon dioxide,0
+1004434,2015,Methane,0
+1004453,2013,Carbon Dioxide,20356.8
+1004509,2013,Methane,0
+1004215,2016,Methane,0
+1004434,2016,Nitrous Oxide,0
+1004509,2016,Carbon Dioxide,308366.7
+1004458,2013,Methane,0
+1004493,2012,Nitrous Oxide,0
+1004511,2010,Methane,0
+1004511,2013,Nitrous Oxide,0
+1004511,2016,Carbon Dioxide,14089.6
+1005116,2010,Methane,0
+1005144,2010,Nitrous Oxide,0
+1005294,2012,Carbon Dioxide,281452
+1005144,2014,Methane,0
+1005144,2016,Nitrous Oxide,0
+1005116,2014,Biogenic Carbon dioxide,0
+1005116,2014,Carbon Dioxide,212989.2
+1005003,2010,Nitrous Oxide,0
+1005003,2011,Carbon Dioxide,18043
+1005116,2016,Methane,0
+1005116,2016,Carbon Dioxide,230158.2
+1005190,2010,Carbon Dioxide,20596
+1005190,2013,Nitrous Oxide,0
+1005283,2012,Biogenic Carbon dioxide,0
+1005283,2015,Methane,0
+1005283,2016,Biogenic Carbon dioxide,0
+1005163,2013,Methane,0
+1005163,2014,Nitrous Oxide,0
+1005294,2010,Biogenic Carbon dioxide,0
+1005294,2010,Carbon Dioxide,301334.8
+1004152,2010,Carbon Dioxide,39832.4
+1004152,2011,Biogenic Carbon dioxide,0
+1004152,2013,Methane,0
+1004152,2013,Carbon Dioxide,16632.9
+1004152,2016,Methane,0
+1005021,2010,Nitrous Oxide,0
+1005303,2010,Biogenic Carbon dioxide,0
+1005344,2010,Methane,0
+1005021,2012,Carbon Dioxide,27558
+1005021,2013,Nitrous Oxide,0
+1005303,2011,Biogenic Carbon dioxide,0
+1005344,2012,Methane,0
+1005021,2014,Biogenic Carbon dioxide,0
+1005303,2013,Carbon Dioxide,56498.8
+1005344,2013,Biogenic Carbon dioxide,0
+1005344,2014,Nitrous Oxide,0
+1005344,2016,Methane,0
+1004729,2016,Nitrous Oxide,0
+1005346,2010,Carbon Dioxide,65559.3
+1005346,2014,Biogenic Carbon dioxide,0
+1005346,2014,Methane,0
+1005298,2010,Biogenic Carbon dioxide,0
+1005298,2010,Carbon Dioxide,25649
+1005298,2012,Methane,0
+1005298,2013,Biogenic Carbon dioxide,0
+1005298,2015,Carbon Dioxide,13188.8
+1005584,2011,Nitrous Oxide,0
+1005584,2011,Carbon Dioxide,735334
+1005752,2012,Nitrous Oxide,0
+1005584,2014,Methane,0
+1005584,2014,Carbon Dioxide,675071.7
+1005584,2016,Methane,0
+1005515,2011,Methane,0
+1005515,2012,Nitrous Oxide,0
+1005515,2013,Methane,0
+1005598,2014,Methane,0
+1005615,2011,Nitrous Oxide,.195
+1005615,2011,Carbon Dioxide,657007.3
+1005515,2016,Biogenic Carbon dioxide,0
+1005423,2013,Biogenic Carbon dioxide,0
+1005423,2013,Nitrous Oxide,0
+1005602,2010,Methane,0
+1005832,2016,Biogenic Carbon dioxide,0
+1006159,2013,Carbon Dioxide,416772.6
+1006159,2014,Carbon Dioxide,433368
+1006159,2015,Carbon Dioxide,408020.2
+1005800,2012,Nitrous Oxide,0
+1005800,2016,Methane,0
+1005801,2010,Methane,0
+1005801,2014,Nitrous Oxide,0
+1005801,2014,Carbon Dioxide,46982.7
+1006144,2012,Biogenic Carbon dioxide,0
+1006144,2015,Nitrous Oxide,.01
+1005777,2010,Methane,0
+1005832,2011,Nitrous Oxide,.02
+1005752,2013,Carbon Dioxide,58705
+1005752,2014,Methane,0
+1005752,2016,Carbon Dioxide,52637.6
+1005700,2012,Biogenic Carbon dioxide,0
+1005700,2015,Methane,0
+1005700,2016,Biogenic Carbon dioxide,0
+1005700,2016,Methane,0
+1006269,2010,Nitrous Oxide,0
+1006269,2012,Biogenic Carbon dioxide,0
+1006341,2012,Methane,.21
+1006341,2012,Carbon Dioxide,64050
+1006341,2013,Carbon Dioxide,56685.2
+1006341,2016,Biogenic Carbon dioxide,0
+1006341,2016,Carbon Dioxide,74334.8
+1006325,2011,Carbon Dioxide,87401
+1006436,2013,Biogenic Carbon dioxide,0
+1006436,2013,Methane,0
+1006325,2016,Methane,0
+1006325,2016,Carbon Dioxide,96824.2
+1006875,2012,Biogenic Carbon dioxide,0
+1006875,2013,Nitrous Oxide,.5
+1006708,2010,Biogenic Carbon dioxide,0
+1006530,2010,Biogenic Carbon dioxide,0
+1006530,2010,Carbon Dioxide,22838
+1006708,2016,Nitrous Oxide,0
+1006972,2010,Nitrous Oxide,0
+1006972,2011,Methane,0
+1006972,2011,Carbon Dioxide,7635.4
+1006530,2012,Carbon Dioxide,39174.2
+1006972,2013,Methane,0
+1006530,2013,Methane,0
+1007287,2011,Carbon Dioxide,727114
+1007287,2013,Carbon Dioxide,1018881
+1007287,2014,Methane,0
+1006901,2010,Biogenic Carbon dioxide,0
+1006585,2012,Methane,0
+1006901,2012,Methane,0
+1006901,2013,Carbon Dioxide,50040
+1006901,2014,Biogenic Carbon dioxide,0
+1006901,2014,Nitrous Oxide,0
+1006906,2010,Methane,0
+1006906,2011,Biogenic Carbon dioxide,0
+1006906,2012,Nitrous Oxide,0
+1007392,2011,Nitrous Oxide,.2
+1007348,2012,Methane,0
+1007348,2012,Nitrous Oxide,0
+1007642,2010,Methane,.6
+1007642,2011,Methane,.7
+1007642,2012,Carbon Dioxide,253314
+1008263,2011,Carbon Dioxide,5426
+1007642,2015,Carbon Dioxide,228605
+1007921,2010,Nitrous Oxide,0
+1007921,2010,Carbon Dioxide,485988
+1007921,2015,Carbon Dioxide,155344.8
+1007921,2016,Carbon Dioxide,207370.9
+1007866,2011,Biogenic Carbon dioxide,0
+1007866,2015,Carbon Dioxide,33853.9
+1007866,2016,Methane,0
+1008735,2011,Nitrous Oxide,0
+1007620,2010,Carbon Dioxide,27501
+1008735,2014,Biogenic Carbon dioxide,0
+1008735,2015,Biogenic Carbon dioxide,0
+1008735,2016,Biogenic Carbon dioxide,0
+1007620,2012,Nitrous Oxide,0
+1007620,2015,Carbon Dioxide,1385.9
+1003580,2015,Carbon Dioxide,26776.4
+1003507,2011,Nitrous Oxide,0
+1003507,2012,Nitrous Oxide,0
+1003577,2012,Methane,0
+1003688,2010,Methane,0
+1003688,2010,Carbon Dioxide,50753.5
+1003688,2015,Biogenic Carbon dioxide,0
+1003688,2015,Nitrous Oxide,0
+1003688,2015,Carbon Dioxide,47503.1
+1003688,2016,Methane,0
+1003688,2016,Nitrous Oxide,0
+1003688,2016,Carbon Dioxide,50315.3
+1003668,2013,Nitrous Oxide,0
+1003668,2014,Methane,0
+1003669,2010,Nitrous Oxide,0
+1003669,2011,Biogenic Carbon dioxide,0
+1003799,2011,Carbon Dioxide,170513.1
+1003799,2015,Nitrous Oxide,0
+1003799,2015,Carbon Dioxide,81243.1
+1003860,2012,Nitrous Oxide,0
+1003860,2014,Methane,0
+1003860,2015,Methane,0
+1003902,2010,Carbon Dioxide,101278
+1003962,2016,Nitrous Oxide,1.252
+1003965,2014,Biogenic Carbon dioxide,0
+1007695,2012,Biogenic Carbon dioxide,0
+1007946,2014,Nitrous Oxide,.013
+1007946,2015,Methane,.13
+1007695,2016,Carbon Dioxide,100804.1
+1007946,2016,Nitrous Oxide,.012
+1007577,2012,Nitrous Oxide,0
+1007577,2013,Carbon Dioxide,35158.1
+1007577,2016,Biogenic Carbon dioxide,0
+1011242,2014,Methane,0
+1012352,2016,Methane,0
+1010766,2016,Methane,0
+1011726,2010,Biogenic Carbon dioxide,0
+1011726,2010,Methane,0
+1010925,2010,Methane,0
+1011726,2014,Carbon Dioxide,1006.1
+1011726,2015,Methane,0
+1010925,2012,Carbon Dioxide,4973.1
+1010925,2013,Nitrous Oxide,0
+1010763,2012,Biogenic Carbon dioxide,0
+1010763,2013,Carbon Dioxide,85395.2
+1010766,2014,Biogenic Carbon dioxide,0
+1000159,2010,Biogenic Carbon dioxide,0
+1007177,2010,Carbon Dioxide,462795.1
+1000177,2010,Carbon Dioxide,216431.7
+1005976,2010,Carbon Dioxide,187190.8
+1002216,2010,Nitrous Oxide,0
+1002216,2010,Carbon Dioxide,24555
+1004811,2016,Methane,0
+1006972,2016,Biogenic Carbon dioxide,0
+1005025,2016,Biogenic Carbon dioxide,0
+1001563,2016,Methane,.19
+1001834,2014,Biogenic Carbon dioxide,0
+1004036,2014,Carbon Dioxide,14942
+1003902,2013,Nitrous Oxide,0
+1004811,2013,Nitrous Oxide,0
+1003962,2012,Methane,.29
+1005536,2011,Carbon Dioxide,6549.6
+1005536,2013,Nitrous Oxide,0
+1000233,2012,Nitrous Oxide,.026
+1003962,2015,Biogenic Carbon dioxide,0
+1003962,2015,Nitrous Oxide,.961
+1007177,2014,Biogenic Carbon dioxide,0
+1006708,2014,Carbon Dioxide,24108.6
+1005976,2012,Biogenic Carbon dioxide,0
+1004036,2012,Carbon Dioxide,11662.2
+1005777,2012,Nitrous Oxide,21.548
+1003902,2014,Methane,0
+1005777,2014,Biogenic Carbon dioxide,0
+1005423,2010,Carbon Dioxide,3423.8
+1003962,2014,Biogenic Carbon dioxide,0
+1003962,2014,Carbon Dioxide,3712241.2
+1005615,2014,Methane,.01
+1001563,2014,Biogenic Carbon dioxide,0
+1001563,2014,Nitrous Oxide,.018
+1005614,2011,Biogenic Carbon dioxide,0
+1006041,2012,Methane,.34
+1006041,2012,Nitrous Oxide,.411
+1006041,2012,Carbon Dioxide,1309904.1
+1000418,2014,Methane,1.17
+1000418,2014,Nitrous Oxide,.499
+1006041,2014,Nitrous Oxide,.332
+1001621,2014,Nitrous Oxide,0
+1001621,2012,Biogenic Carbon dioxide,0
+1001621,2012,Methane,0
+1000274,2011,Carbon Dioxide,1539688
+1000418,2016,Nitrous Oxide,.231
+1005276,2015,Biogenic Carbon dioxide,0
+1005615,2012,Nitrous Oxide,.082
+1000177,2011,Methane,.01
+1004036,2015,Methane,0
+1000124,2016,Methane,0
+1003669,2015,Biogenic Carbon dioxide,0
+1003669,2015,Carbon Dioxide,231925.3
+1005800,2015,Methane,0
+1005190,2011,Biogenic Carbon dioxide,0
+1005190,2011,Carbon Dioxide,52866
+1000588,2015,Methane,.05
+1000233,2015,Nitrous Oxide,.129
+1001699,2014,Nitrous Oxide,0
+1000233,2014,Biogenic Carbon dioxide,0
+1000159,2011,Biogenic Carbon dioxide,0
+1000159,2011,Carbon Dioxide,290818.5
+1004036,2013,Methane,0
+1000588,2016,Methane,.05
+1000394,2016,Biogenic Carbon dioxide,0
+1000394,2016,Methane,0
+1007177,2012,Nitrous Oxide,.017
+1003474,2010,Carbon Dioxide,61383.8
+1004811,2011,Methane,0
+1004411,2010,Methane,0
+1004411,2010,Nitrous Oxide,0
+1004411,2010,Carbon Dioxide,47084.2
+1004151,2010,Carbon Dioxide,152518
+1003902,2011,Carbon Dioxide,72818
+1005536,2010,Carbon Dioxide,5779.6
+1007620,2014,Biogenic Carbon dioxide,0
+1005276,2014,Carbon Dioxide,183218.9
+1003902,2012,Carbon Dioxide,96388
+1000588,2013,Biogenic Carbon dioxide,0
+1000588,2013,Methane,.07
+1000588,2013,Carbon Dioxide,1206446
+1001618,2011,Nitrous Oxide,0
+1000330,2011,Methane,0
+1000399,2012,Nitrous Oxide,0
+1002621,2011,Methane,0
+1003268,2011,Methane,0
+1003577,2011,Methane,0
+1003981,2012,Nitrous Oxide,0
+1004729,2012,Biogenic Carbon dioxide,0
+1005163,2011,Nitrous Oxide,0
+1005190,2012,Carbon Dioxide,44416
+1006972,2012,Nitrous Oxide,0
+1006972,2012,Carbon Dioxide,7847
+1007392,2012,Nitrous Oxide,.1
+1005801,2011,Biogenic Carbon dioxide,0
+1005801,2011,Methane,0
+1005801,2011,Nitrous Oxide,0
+1000029,2011,Carbon Dioxide,95239
+1000029,2012,Biogenic Carbon dioxide,0
+1000029,2015,Nitrous Oxide,0
+1000029,2015,Carbon Dioxide,72174.5
+1000235,2013,Carbon Dioxide,14173
+1000330,2012,Nitrous Oxide,0
+1000394,2012,Carbon Dioxide,11955.7
+1000394,2015,Biogenic Carbon dioxide,0
+1000394,2015,Nitrous Oxide,0
+1000394,2015,Carbon Dioxide,10982.5
+1000399,2015,Nitrous Oxide,0
+1000399,2016,Methane,0
+1000588,2010,Biogenic Carbon dioxide,0
+1000714,2010,Nitrous Oxide,0
+1000714,2016,Nitrous Oxide,0
+1000802,2011,Carbon Dioxide,9148.1
+1000802,2014,Nitrous Oxide,.158
+1000802,2016,Methane,.03
+1001103,2010,Biogenic Carbon dioxide,0
+1001103,2014,Biogenic Carbon dioxide,0
+1001103,2014,Nitrous Oxide,0
+1001103,2016,Biogenic Carbon dioxide,0
+1001618,2012,Biogenic Carbon dioxide,0
+1001618,2014,Biogenic Carbon dioxide,0
+1001618,2014,Carbon Dioxide,208502.1
+1001618,2016,Nitrous Oxide,0
+1001673,2016,Biogenic Carbon dioxide,0
+1001673,2016,Nitrous Oxide,0
+1001699,2011,Carbon Dioxide,37466
+1001669,2011,Methane,0
+1001669,2012,Carbon Dioxide,11875
+1001669,2014,Biogenic Carbon dioxide,0
+1001669,2015,Biogenic Carbon dioxide,0
+1001673,2013,Carbon Dioxide,1686
+1001958,2011,Methane,0
+1001958,2011,Carbon Dioxide,27.9
+1001958,2012,Nitrous Oxide,0
+1001958,2014,Methane,0
+1001958,2014,Nitrous Oxide,0
+1002147,2010,Nitrous Oxide,0
+1002147,2013,Carbon Dioxide,180260.9
+1002266,2014,Nitrous Oxide,.06
+1002266,2014,Carbon Dioxide,406461.1
+1002266,2016,Methane,.53
+1002216,2013,Carbon Dioxide,27655.9
+1002216,2015,Methane,0
+1002216,2016,Biogenic Carbon dioxide,0
+1002714,2014,Biogenic Carbon dioxide,0
+1002714,2014,Carbon Dioxide,22457.5
+1002621,2012,Carbon Dioxide,63542.8
+1002621,2014,Carbon Dioxide,73756
+1002621,2015,Biogenic Carbon dioxide,0
+1002621,2015,Carbon Dioxide,54963.4
+1002777,2013,Carbon Dioxide,894686
+1002768,2011,Methane,0
+1002768,2012,Nitrous Oxide,0
+1002768,2014,Methane,0
+1002768,2016,Carbon Dioxide,24178.5
+1002769,2010,Methane,0
+1002769,2014,Biogenic Carbon dioxide,0
+1002769,2014,Methane,0
+1002903,2010,Biogenic Carbon dioxide,0
+1002903,2012,Carbon Dioxide,63377
+1002903,2014,Biogenic Carbon dioxide,0
+1002958,2012,Nitrous Oxide,0
+1002958,2013,Carbon Dioxide,218550
+1002958,2014,Biogenic Carbon dioxide,0
+1002977,2014,Nitrous Oxide,0
+1002977,2014,Carbon Dioxide,52936
+1003093,2010,Biogenic Carbon dioxide,0
+1003093,2012,Biogenic Carbon dioxide,0
+1003052,2014,Carbon Dioxide,27848.6
+1003052,2015,Nitrous Oxide,0
+1003052,2015,Carbon Dioxide,32525.9
+1003052,2016,Methane,0
+1003052,2011,Nitrous Oxide,0
+1003268,2010,Nitrous Oxide,0
+1003380,2011,Nitrous Oxide,.042
+1003380,2014,Biogenic Carbon dioxide,0
+1003474,2012,Biogenic Carbon dioxide,0
+1003474,2013,Nitrous Oxide,0
+1003457,2012,Methane,0
+1003403,2014,Biogenic Carbon dioxide,0
+1003403,2015,Nitrous Oxide,0
+1003577,2015,Nitrous Oxide,0
+1003577,2016,Nitrous Oxide,0
+1003580,2010,Methane,0
+1003580,2012,Biogenic Carbon dioxide,0
+1003580,2012,Methane,0
+1003580,2013,Methane,0
+1003580,2014,Methane,0
+1003580,2014,Carbon Dioxide,22331.2
+1003580,2015,Biogenic Carbon dioxide,0
+1000124,2015,Methane,0
+1000159,2015,Carbon Dioxide,79087.2
+1000418,2015,Nitrous Oxide,.175
+1001621,2015,Biogenic Carbon dioxide,0
+1001834,2011,Biogenic Carbon dioxide,0
+1000330,2014,Methane,0
+1000330,2014,Carbon Dioxide,26611.3
+1003093,2015,Methane,.85
+1004259,2015,Carbon Dioxide,104160.9
+1003902,2015,Methane,0
+1003902,2015,Carbon Dioxide,96395
+1006041,2011,Carbon Dioxide,1109914.3
+1007177,2013,Methane,.02
+1000124,2013,Biogenic Carbon dioxide,0
+1000124,2013,Methane,0
+1000159,2013,Carbon Dioxide,258985.1
+1001834,2013,Biogenic Carbon dioxide,0
+1000156,2016,Nitrous Oxide,.105
+1005423,2015,Nitrous Oxide,0
+1003093,2016,Methane,.22
+1000553,2010,Nitrous Oxide,.05
+1000553,2010,Carbon Dioxide,266989.6
+1000124,2010,Carbon Dioxide,31727.7
+1000274,2010,Carbon Dioxide,1488839.3
+1000156,2010,Methane,.11
+1003965,2016,Carbon Dioxide,18264.3
+1003981,2016,Carbon Dioxide,41892.4
+1004038,2012,Biogenic Carbon dioxide,0
+1004038,2012,Nitrous Oxide,0
+1004038,2014,Carbon Dioxide,45154.3
+1004259,2011,Biogenic Carbon dioxide,0
+1004259,2012,Methane,0
+1004259,2014,Biogenic Carbon dioxide,0
+1004215,2011,Methane,0
+1004215,2011,Carbon Dioxide,60906
+1004616,2013,Nitrous Oxide,0
+1004215,2014,Methane,0
+1004434,2010,Nitrous Oxide,0
+1004453,2011,Carbon Dioxide,11717.5
+1004453,2012,Nitrous Oxide,0
+1004509,2012,Carbon Dioxide,414659
+1004434,2013,Carbon Dioxide,10039.6
+1004453,2013,Methane,0
+1004509,2013,Nitrous Oxide,0
+1004458,2011,Carbon Dioxide,1209425.1
+1004509,2014,Nitrous Oxide,0
+1004509,2014,Carbon Dioxide,531413.5
+1004458,2012,Methane,0
+1004509,2015,Methane,0
+1004509,2016,Methane,0
+1004458,2013,Carbon Dioxide,1013729.1
+1004493,2011,Biogenic Carbon dioxide,0
+1004493,2016,Biogenic Carbon dioxide,0
+1004511,2012,Carbon Dioxide,16333.8
+1005294,2011,Nitrous Oxide,0
+1005294,2012,Methane,0
+1005144,2013,Nitrous Oxide,0
+1005144,2014,Nitrous Oxide,0
+1005116,2012,Nitrous Oxide,0
+1005116,2012,Carbon Dioxide,261877.2
+1005025,2014,Biogenic Carbon dioxide,0
+1005025,2014,Nitrous Oxide,.103
+1005025,2014,Carbon Dioxide,50970.4
+1005116,2015,Methane,0
+1005116,2015,Nitrous Oxide,0
+1005283,2010,Carbon Dioxide,110294.9
+1005283,2013,Methane,0
+1005283,2013,Carbon Dioxide,111392.9
+1005283,2014,Biogenic Carbon dioxide,0
+1005003,2014,Methane,0
+1005003,2014,Nitrous Oxide,0
+1005283,2016,Nitrous Oxide,0
+1005163,2010,Methane,0
+1005163,2013,Carbon Dioxide,112108.9
+1005163,2014,Carbon Dioxide,110987.7
+1004151,2012,Carbon Dioxide,152371.4
+1004151,2014,Carbon Dioxide,166301.7
+1004152,2012,Methane,0
+1004152,2012,Carbon Dioxide,50763.4
+1004152,2013,Nitrous Oxide,0
+1004411,2012,Biogenic Carbon dioxide,0
+1004152,2015,Carbon Dioxide,27378.9
+1004152,2016,Carbon Dioxide,19353.2
+1004411,2014,Carbon Dioxide,82501.2
+1004411,2015,Carbon Dioxide,45734.4
+1005303,2010,Nitrous Oxide,0
+1005021,2011,Carbon Dioxide,38268
+1005021,2012,Nitrous Oxide,0
+1005276,2010,Methane,0
+1005303,2012,Carbon Dioxide,53976.6
+1005344,2011,Biogenic Carbon dioxide,0
+1005344,2011,Carbon Dioxide,71430.8
+1004729,2010,Biogenic Carbon dioxide,0
+1005021,2015,Nitrous Oxide,0
+1005303,2013,Methane,0
+1005344,2014,Methane,0
+1005344,2014,Carbon Dioxide,72575.6
+1004729,2011,Nitrous Oxide,0
+1004729,2013,Nitrous Oxide,0
+1005276,2012,Biogenic Carbon dioxide,0
+1005344,2016,Biogenic Carbon dioxide,0
+1004729,2015,Methane,0
+1005346,2010,Biogenic Carbon dioxide,0
+1005346,2010,Methane,0
+1005346,2010,Nitrous Oxide,0
+1005294,2014,Biogenic Carbon dioxide,0
+1005298,2014,Biogenic Carbon dioxide,0
+1005298,2014,Carbon Dioxide,21952.3
+1005298,2015,Methane,0
+1005584,2010,Biogenic Carbon dioxide,0
+1005584,2010,Methane,0
+1005584,2012,Carbon Dioxide,669024
+1005752,2011,Methane,0
+1005752,2011,Carbon Dioxide,59192
+1005584,2014,Nitrous Oxide,0
+1005584,2015,Nitrous Oxide,0
+1005584,2016,Carbon Dioxide,637258.2
+1005515,2013,Carbon Dioxide,24068.8
+1005598,2012,Methane,0
+1005598,2012,Nitrous Oxide,0
+1005598,2012,Carbon Dioxide,561356.2
+1005598,2014,Nitrous Oxide,0
+1005615,2011,Biogenic Carbon dioxide,0
+1005423,2012,Carbon Dioxide,1938.1
+1005423,2014,Carbon Dioxide,2259.9
+1005602,2010,Carbon Dioxide,47416.9
+1005832,2013,Biogenic Carbon dioxide,0
+1005832,2016,Methane,.18
+1006159,2013,Nitrous Oxide,0
+1006159,2014,Methane,0
+1006159,2015,Biogenic Carbon dioxide,0
+1006159,2015,Methane,0
+1005800,2010,Carbon Dioxide,12332.1
+1005800,2012,Carbon Dioxide,14036.8
+1005800,2014,Biogenic Carbon dioxide,0
+1005800,2016,Nitrous Oxide,0
+1005801,2010,Biogenic Carbon dioxide,0
+1005801,2010,Carbon Dioxide,22442.2
+1005801,2016,Nitrous Oxide,0
+1006144,2010,Nitrous Oxide,0
+1006144,2013,Methane,.06
+1006144,2013,Carbon Dioxide,39712.1
+1005976,2013,Methane,0
+1006144,2014,Methane,.06
+1006144,2015,Biogenic Carbon dioxide,0
+1006144,2015,Carbon Dioxide,31215.1
+1005777,2010,Nitrous Oxide,0
+1006144,2016,Carbon Dioxide,39673.6
+1005976,2016,Biogenic Carbon dioxide,0
+1005976,2016,Carbon Dioxide,457440.7
+1005832,2012,Nitrous Oxide,.019
+1005832,2012,Carbon Dioxide,98145.6
+1005752,2013,Methane,0
+1005752,2014,Nitrous Oxide,0
+1005752,2015,Biogenic Carbon dioxide,0
+1005752,2016,Methane,0
+1005700,2010,Methane,0
+1005755,2013,Carbon Dioxide,35230
+1005700,2013,Carbon Dioxide,192476
+1005700,2014,Biogenic Carbon dioxide,0
+1005755,2015,Carbon Dioxide,37586.6
+1006269,2011,Methane,0
+1006269,2011,Carbon Dioxide,49629.9
+1006269,2013,Methane,0
+1006269,2014,Carbon Dioxide,48653.5
+1006269,2015,Biogenic Carbon dioxide,0
+1006269,2015,Carbon Dioxide,58022.3
+1006269,2016,Biogenic Carbon dioxide,0
+1006269,2016,Nitrous Oxide,0
+1006341,2010,Methane,.11
+1006341,2011,Biogenic Carbon dioxide,0
+1006341,2011,Carbon Dioxide,63665.6
+1006341,2012,Biogenic Carbon dioxide,0
+1006341,2012,Nitrous Oxide,.021
+1006341,2014,Methane,.12
+1006325,2011,Nitrous Oxide,0
+1006325,2012,Biogenic Carbon dioxide,0
+1006325,2012,Nitrous Oxide,0
+1006325,2014,Biogenic Carbon dioxide,0
+1006875,2014,Carbon Dioxide,1260.2
+1006875,2016,Nitrous Oxide,.003
+1006875,2016,Carbon Dioxide,2039.3
+1006708,2011,Methane,0
+1006708,2011,Carbon Dioxide,20216.7
+1006708,2013,Nitrous Oxide,0
+1006708,2015,Methane,0
+1006708,2016,Methane,0
+1006972,2010,Carbon Dioxide,4503.2
+1006530,2011,Methane,0
+1006530,2011,Nitrous Oxide,0
+1006972,2014,Biogenic Carbon dioxide,0
+1006530,2014,Biogenic Carbon dioxide,0
+1006875,2011,Nitrous Oxide,.002
+1007287,2011,Biogenic Carbon dioxide,0
+1007287,2015,Carbon Dioxide,1043780.1
+1007287,2016,Methane,0
+1006585,2010,Biogenic Carbon dioxide,0
+1006585,2010,Methane,0
+1006901,2011,Biogenic Carbon dioxide,0
+1006901,2014,Carbon Dioxide,70017
+1006901,2015,Carbon Dioxide,55994.1
+1006585,2014,Methane,0
+1006585,2015,Biogenic Carbon dioxide,0
+1006585,2015,Carbon Dioxide,6124.3
+1006906,2010,Carbon Dioxide,69713
+1006906,2014,Nitrous Oxide,0
+1006906,2016,Nitrous Oxide,0
+1007348,2015,Biogenic Carbon dioxide,0
+1007392,2010,Methane,.8
+1007392,2010,Nitrous Oxide,.2
+1007392,2010,Carbon Dioxide,90011
+1007392,2011,Methane,1.1
+1007348,2014,Methane,0
+1007348,2014,Carbon Dioxide,22298.6
+1007642,2011,Biogenic Carbon dioxide,0
+1008263,2010,Methane,0
+1008263,2010,Nitrous Oxide,0
+1007642,2013,Nitrous Oxide,.048
+1008263,2011,Nitrous Oxide,0
+1007642,2016,Biogenic Carbon dioxide,0
+1007921,2010,Methane,0
+1007921,2012,Nitrous Oxide,0
+1007921,2016,Biogenic Carbon dioxide,0
+1007866,2012,Carbon Dioxide,70920.7
+1007866,2013,Carbon Dioxide,52352.2
+1007866,2014,Methane,0
+1007866,2016,Biogenic Carbon dioxide,0
+1008735,2011,Biogenic Carbon dioxide,0
+1008735,2011,Carbon Dioxide,6186
+1008735,2013,Biogenic Carbon dioxide,0
+1008735,2013,Nitrous Oxide,0
+1008735,2016,Nitrous Oxide,0
+1003580,2016,Nitrous Oxide,0
+1003507,2010,Carbon Dioxide,21530.3
+1003507,2011,Carbon Dioxide,21204.9
+1003507,2012,Biogenic Carbon dioxide,0
+1003507,2012,Carbon Dioxide,21510.9
+1003507,2013,Nitrous Oxide,0
+1003577,2012,Carbon Dioxide,7075
+1003688,2011,Biogenic Carbon dioxide,0
+1003688,2012,Carbon Dioxide,39026.9
+1003688,2013,Nitrous Oxide,0
+1003688,2014,Nitrous Oxide,0
+1003668,2013,Methane,0
+1003668,2016,Methane,0
+1003668,2016,Nitrous Oxide,0
+1003669,2012,Methane,0
+1003669,2016,Nitrous Oxide,0
+1003799,2014,Methane,0
+1003799,2016,Biogenic Carbon dioxide,0
+1003799,2016,Methane,0
+1003860,2013,Carbon Dioxide,150796
+1003962,2016,Methane,.38
+1003965,2010,Methane,0
+1003965,2014,Methane,0
