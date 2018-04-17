@@ -19,7 +19,9 @@ names(starwars) # the variable names only
 str(starwars) # the "structure" -- very weird for this example.
 
 # Select variables:
-select(starwars, name)
+select(starwars, name, mass)
+starwars$name
+starwars[["name"]]
 
 # unique values:
 distinct(starwars, homeworld)
@@ -31,10 +33,15 @@ filter(starwars, mass > 100)
 filter(starwars, height < 180)
 filter(starwars, mass > 100, height < 180)
 
+
+
 # Both together:
 starwars %>%
   filter(mass > 100, height < 180) %>%
   select(name, mass, homeworld)
+
+step1 <- filter(starwars, mass > 100)
+step2 <- select(step1, name, mass, homeworld)
 
 # Add new variables:
 starwars %>%
@@ -70,12 +77,12 @@ round(3.1415, 2)
 ##### Grouping, summarizing ---------
 
 starwars %>%
-  group_by(homeworld) %>% #make separate groups that share value of the group_by variables.
+  group_by(homeworld, hair_color) %>% #make separate groups that share value of the group_by variables.
   summarize(count = n(),
-            tot_mass = sum(mass)) # perform some summaries that combine the 
+            tot_mass = sum(mass, na.rm = TRUE)) # perform some summaries that combine the 
 
 # This dataset doesn't really make a lot of sense for this ....
-
+filter(starwars, homeworld == "Alderaan")
 
 
 ####### Look at the docs ----------

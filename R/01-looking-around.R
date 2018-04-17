@@ -30,6 +30,7 @@ View(mtcars)
 
 # Try putting some values in a variable:
 x <- c(1, 7, 1234, 1111)
+mystring <- "hello"
 
 # Now x should be a value up in the environment pane.
 # copy mtcars into your own dataframe:
