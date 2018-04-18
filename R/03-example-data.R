@@ -2,7 +2,7 @@
 
 # Both R and various packages include built-in example data. We are going to focus on manipulating that data with `dplyr`
 
-library(dplyr)
+library(tidyverse)
 
 # list all the currently available example datasets
 data()
