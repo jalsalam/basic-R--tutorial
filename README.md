@@ -16,13 +16,19 @@ First session:
  * How to run scripts, install packages, and find documentation  
  * Read in and play around with an example dataset  
 
-Subsequent sessions:
- * Loading data from csv/xlsx  
- * Basic data manipulation (e.g., filter, join, add new variables)  
- * Plotting  
- * We'll see...  
+Second session:
+ * Review/questions on RStudio, installing/loading packages, etc?
+ * Joining two datasets with dplyr
+ * Reshaping a dataset with tidyr
 
-I am not a pro teacher -- I am mostly just hoping to whet your appetite. Here are some more links.
+Third session:
+ * Review/q's on previous material
+ * Plots with ggplot2
+ * Rmarkdown
+
+I am not an expert teacher, and I won't have enough time in these sessions to cover everything in depth. I am mostly trying to whet you appetite and get you "over the hump" to know how to get started.
+
+Here are some more links...
 
 ## Links:  
 
