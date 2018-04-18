@@ -53,3 +53,60 @@ table1 %>%
 # filter for high-population info:
 table1 %>%
   filter(population > 100000000)
+
+
+#### YOUR TURN:
+# data-raw folder has a cleaned up version of the main inventory table 2-1.
+# data-raw/GHGI_2-1_1990-2015_clean.csv
+# Read it in and transform it to "tidy" or "tall" format by gathering year columns into a 'year' column and an 'emissions' column.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Answer:
+ghgi_raw <- read_csv("data-raw/GHGI_2-1_1990-2015_clean.csv")
+ghgi_tidy <- ghgi_raw %>%
+  gather(key = "year", value = "emissions", -Gas, -Source)
+
+View(ghgi_raw)
+View(ghgi_tidy)
+
+# Payoff: easy to transform and plot:
+
+# Run this whole block:
+ghgi_tidy %>%
+  group_by(Gas, year) %>%
+  summarize(emissions = sum(emissions, na.rm = TRUE)) %>%
+  ggplot(ghgi_tidy, mapping = aes(x=year, y=emissions, color = Gas)) +
+  geom_line()
