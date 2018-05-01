@@ -46,7 +46,12 @@ band_instruments2
 
 # I most commonly use `left_join(x, y)`. This type of join keeps all the rows from the first dataframe and looks up the corresponding data from the second and appends it to the first. All the dplyr join verbs will try to guess common columns, but it is usually best to specify how you want the join to happen.
 
+left_join(band_members, band_instruments2, by = c("name" = "artist"))
+
+
 left_join(band_members, band_instruments)
+
+
 band_members %>% left_join(band_instruments) # equivalent with pipe
 band_members %>% left_join(band_instruments, by = "name") # specify join column to quiet the message
 
@@ -107,7 +112,7 @@ weather # gives weather at each NYC airport each hour
 
 
 ## YOUR TURN:
-# Try joining the flights data to the full carrier name and airport name data.
+# Try joining the flights data to the full carrier name (and/or airport name data.)
 
 
 
@@ -125,6 +130,7 @@ weather # gives weather at each NYC airport each hour
 # Hint 2: drop some unnecessary columns
 flights2 <- flights %>%
   select(year:day, hour, origin, dest, tailnum, carrier)
+
 
 
 # Hint 3: join & count

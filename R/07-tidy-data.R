@@ -26,7 +26,7 @@ gather(table4a, year, value, `1999`, `2000`) # alt syntax, same call
 table2
 
 table2 %>%
-  spread(key = type, value = count)
+  spread(., key = "type", value = "count")
 
 
 # Don't spread too far! This is mixing two varibles together in column name.
@@ -94,10 +94,15 @@ table1 %>%
 
 
 
+
 ### Answer:
 ghgi_raw <- read_csv("data-raw/GHGI_2-1_1990-2015_clean.csv")
 ghgi_tidy <- ghgi_raw %>%
   gather(key = "year", value = "emissions", -Gas, -Source)
+
+ghgi_tidy <- ghgi_raw %>%
+  gather(key = "year", value = "emissions", `1990`, `2005`)
+
 
 View(ghgi_raw)
 View(ghgi_tidy)

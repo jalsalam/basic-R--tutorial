@@ -1,0 +1,81 @@
+---
+title: "10-ggplot2"
+author: "Jameel Alsalam"
+date: "May 1, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## ggplot2
+
+ggplot2 is a package -- it's name stands for the "grammar of graphics" which is a principled approach to constructing graphics using a translation of data into different plot layers and visual marks. While it is not the only way to plot in R, it is a great way to learn!
+
+```{r pkgload}
+library("tidyverse")
+```
+
+Press the "play" button at the right of the code block above to load the tidyverse packages (which includes ggplot2)
+
+Let's follow along in [R for Data Science](http://r4ds.had.co.nz/data-visualisation.html)
+
+`mpg` is a dataset included in the ggplot2 package which has data on the fuel economy of various cars. It is often used as an example dataset.
+
+```{r}
+mpg
+```
+
+
+You can type "ctrl-alt-i" to insert a new code chunk in an Rmarkdown document.
+
+The R4DS chapter starts with a question -- do you think that cars with big engines use more fuel than cars with small engines? What is the relationship of these variables.
+
+```{r}
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y = hwy))
+
+```
+
+Discuss the major elements here:
+1. ggplot() function starts it all
+2. data argument defines the data that we are plotting (it all should be in one data frame)
+3. a geom function to translate the data into marks using a mapping
+
+
+Try the first set of exercises at 3.2.4 in http://r4ds.had.co.nz/data-visualisation.html
+
+
+A code chunk you can use to get started here:
+
+```{r}
+
+
+
+
+```
+
+Feel free to write notes to yourself (you no longer have to # comments) and insert more code chunks either by typing triple backtick open-brace, or with ctrl-alt-i.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You might be interested to know that the book "R for Data Science" is actually written as a series of Rmarkdown files which are then "knit" to make both the web html form of the book and to pdf for the print form of the book.
+
+Check out the visualize chapter of [r4ds on Github](https://github.com/hadley/r4ds/blob/master/visualize.Rmd)
+
+You might notice that all the text is the same, but there are no plots -- instead there is the code that generates the plots.
