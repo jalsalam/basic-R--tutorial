@@ -6,3 +6,13 @@
 notes\.md
 
 R/scratch\.R
+
+images/
+
+*.html
+
+*.Rpres
+
+tutorial_pres_3\.md
+
+tutorial_pres\.md
